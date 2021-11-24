@@ -42,6 +42,7 @@ struct PLAYER_NAME : public Player {
 	  VI U = my_units(me()); // Get the id's of my units.
 	  int n = U.size();
 	  VI perm = random_permutation(n);
+
 	  for (int i = 0; i < n; ++i) {
 			
 		  // We process the units in random order.
