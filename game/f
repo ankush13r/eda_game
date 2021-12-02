@@ -1,0 +1,10850 @@
+info: seed 30
+info: loading game
+info: loaded game
+info: loading player MrPanda
+info: loading player MrPanda
+info: loading player MrPanda
+info: loading player Demo
+info: players loaded
+info: start round 0
+info:     start player 0
+1--24
+68--43
+68--62
+12--1
+55--1
+35--1
+68--54
+68--13
+68--45
+68--48
+68--5
+51--1
+33--68
+61--68
+1--57
+info:     end player 0
+info:     start player 1
+37--1
+1--3
+45--1
+68--11
+61--1
+1--27
+1--29
+24--1
+19--68
+29--1
+56--68
+68--33
+1--49
+30--68
+46--68
+info:     end player 1
+info:     start player 2
+68--51
+54--68
+43--1
+40--1
+35--68
+27--68
+52--68
+31--1
+1--67
+21--1
+1--14
+68--41
+68--28
+68--21
+19--1
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 0
+info: start round 1
+info:     start player 0
+33--68
+68--45
+68--5
+68--54
+51--1
+1--24
+1--57
+61--68
+12--1
+55--1
+68--13
+68--48
+68--62
+68--43
+35--1
+info:     end player 0
+info:     start player 1
+1--27
+19--68
+37--1
+29--1
+24--1
+46--68
+68--33
+45--1
+56--68
+1--49
+61--1
+1--3
+68--11
+30--68
+1--29
+info:     end player 1
+info:     start player 2
+19--1
+68--28
+21--1
+1--14
+68--21
+40--1
+68--41
+43--1
+1--67
+31--1
+52--68
+27--68
+35--68
+68--51
+54--68
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 1
+info: start round 2
+info:     start player 0
+68--62
+68--45
+68--13
+68--54
+68--48
+51--1
+33--68
+55--1
+1--57
+1--24
+61--68
+35--1
+68--43
+12--1
+68--5
+info:     end player 0
+info:     start player 1
+46--68
+1--3
+19--68
+45--1
+68--33
+61--1
+68--11
+1--29
+1--49
+1--27
+37--1
+24--1
+56--68
+30--68
+29--1
+info:     end player 1
+info:     start player 2
+68--21
+27--68
+68--28
+43--1
+1--67
+68--41
+40--1
+35--68
+68--51
+52--68
+19--1
+1--14
+31--1
+21--1
+54--68
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 2
+info: start round 3
+info:     start player 0
+1--24
+51--1
+55--1
+61--68
+35--1
+68--48
+68--13
+33--68
+68--43
+68--5
+68--54
+68--62
+68--45
+12--1
+1--57
+info:     end player 0
+info:     start player 1
+29--1
+30--68
+1--27
+1--3
+1--29
+68--11
+68--33
+1--49
+46--68
+45--1
+37--1
+19--68
+24--1
+61--1
+56--68
+info:     end player 1
+info:     start player 2
+68--21
+31--1
+54--68
+68--28
+35--68
+1--14
+21--1
+43--1
+27--68
+52--68
+19--1
+68--51
+68--41
+40--1
+1--67
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 3
+info: start round 4
+info:     start player 0
+35--1
+68--43
+68--62
+33--68
+68--5
+68--13
+1--57
+68--48
+55--1
+61--68
+68--54
+68--45
+51--1
+1--24
+12--1
+info:     end player 0
+info:     start player 1
+29--1
+61--1
+24--1
+1--49
+1--3
+19--68
+56--68
+45--1
+68--33
+1--27
+30--68
+1--29
+68--11
+37--1
+46--68
+info:     end player 1
+info:     start player 2
+35--68
+1--67
+21--1
+19--1
+68--28
+68--21
+27--68
+52--68
+40--1
+31--1
+54--68
+43--1
+1--14
+68--51
+68--41
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 4
+info: start round 5
+info:     start player 0
+55--1
+68--45
+68--5
+68--13
+61--68
+33--68
+68--62
+35--1
+12--1
+68--48
+1--57
+68--43
+68--54
+1--24
+51--1
+info:     end player 0
+info:     start player 1
+1--29
+37--1
+19--68
+29--1
+46--68
+61--1
+68--11
+68--33
+45--1
+30--68
+1--3
+1--27
+56--68
+24--1
+1--49
+info:     end player 1
+info:     start player 2
+35--68
+43--1
+21--1
+19--1
+52--68
+68--28
+1--67
+27--68
+31--1
+40--1
+54--68
+68--41
+1--14
+68--51
+68--21
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 5
+info: start round 6
+info:     start player 0
+35--1
+61--68
+68--62
+68--13
+68--43
+33--68
+1--57
+68--5
+51--1
+12--1
+68--45
+68--54
+1--24
+55--1
+68--48
+info:     end player 0
+info:     start player 1
+1--3
+37--1
+29--1
+24--1
+46--68
+1--49
+30--68
+68--11
+1--27
+68--33
+19--68
+56--68
+1--29
+61--1
+45--1
+info:     end player 1
+info:     start player 2
+31--1
+35--68
+68--21
+54--68
+52--68
+43--1
+1--14
+68--51
+40--1
+21--1
+27--68
+19--1
+1--67
+68--41
+68--28
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 6
+info: start round 7
+info:     start player 0
+68--5
+1--24
+35--1
+68--48
+68--62
+68--43
+1--57
+68--54
+51--1
+68--13
+33--68
+55--1
+12--1
+68--45
+61--68
+info:     end player 0
+info:     start player 1
+1--3
+19--68
+1--49
+56--68
+29--1
+45--1
+1--27
+37--1
+61--1
+30--68
+24--1
+46--68
+68--11
+68--33
+1--29
+info:     end player 1
+info:     start player 2
+68--51
+21--1
+40--1
+27--68
+31--1
+1--67
+43--1
+35--68
+1--14
+68--41
+54--68
+19--1
+68--28
+52--68
+68--21
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 7
+info: start round 8
+info:     start player 0
+55--1
+68--54
+68--45
+68--43
+1--57
+1--24
+51--1
+61--68
+68--62
+12--1
+68--48
+35--1
+68--5
+33--68
+68--13
+info:     end player 0
+info:     start player 1
+1--29
+1--49
+68--11
+45--1
+1--3
+29--1
+24--1
+68--33
+1--27
+37--1
+19--68
+46--68
+30--68
+61--1
+56--68
+info:     end player 1
+info:     start player 2
+35--68
+68--51
+27--68
+1--14
+40--1
+68--21
+1--67
+31--1
+68--41
+52--68
+54--68
+43--1
+19--1
+21--1
+68--28
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 8
+info: start round 9
+info:     start player 0
+68--13
+12--1
+61--68
+1--57
+33--68
+68--62
+55--1
+68--5
+1--24
+68--45
+68--43
+68--48
+68--54
+51--1
+35--1
+info:     end player 0
+info:     start player 1
+1--29
+24--1
+1--3
+45--1
+68--33
+56--68
+29--1
+1--27
+61--1
+46--68
+30--68
+19--68
+37--1
+68--11
+1--49
+info:     end player 1
+info:     start player 2
+35--68
+43--1
+68--51
+54--68
+1--67
+68--28
+21--1
+68--41
+19--1
+31--1
+68--21
+1--14
+27--68
+52--68
+40--1
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 9
+info: start round 10
+info:     start player 0
+68--62
+68--54
+68--5
+68--48
+68--43
+1--24
+1--57
+51--1
+33--68
+68--45
+55--1
+68--13
+35--1
+12--1
+61--68
+info:     end player 0
+info:     start player 1
+45--1
+29--1
+19--68
+1--49
+46--68
+37--1
+1--27
+24--1
+1--29
+68--33
+61--1
+68--11
+1--3
+56--68
+30--68
+info:     end player 1
+info:     start player 2
+27--68
+43--1
+31--1
+68--21
+19--1
+68--41
+40--1
+1--14
+35--68
+1--67
+68--28
+54--68
+21--1
+68--51
+52--68
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 10
+info: start round 11
+info:     start player 0
+12--1
+68--45
+33--68
+51--1
+68--13
+68--43
+35--1
+68--48
+68--54
+68--5
+61--68
+1--24
+1--57
+68--62
+55--1
+info:     end player 0
+info:     start player 1
+68--11
+19--68
+56--68
+46--68
+1--27
+24--1
+1--49
+1--3
+45--1
+68--33
+61--1
+29--1
+1--29
+30--68
+37--1
+info:     end player 1
+info:     start player 2
+43--1
+19--1
+40--1
+27--68
+35--68
+68--41
+54--68
+68--51
+68--28
+68--21
+21--1
+31--1
+1--67
+1--14
+52--68
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 11
+info: start round 12
+info:     start player 0
+68--45
+1--57
+68--62
+61--68
+68--5
+68--54
+33--68
+55--1
+35--1
+68--13
+51--1
+68--48
+1--24
+68--43
+12--1
+info:     end player 0
+info:     start player 1
+68--11
+19--68
+45--1
+1--49
+1--27
+29--1
+24--1
+68--33
+1--29
+1--3
+61--1
+46--68
+30--68
+56--68
+37--1
+info:     end player 1
+info:     start player 2
+21--1
+68--28
+43--1
+54--68
+19--1
+1--14
+35--68
+31--1
+68--21
+40--1
+27--68
+1--67
+68--51
+68--41
+52--68
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 12
+info: start round 13
+info:     start player 0
+68--43
+68--48
+33--68
+68--45
+61--68
+1--57
+35--1
+51--1
+68--62
+68--5
+1--24
+12--1
+68--13
+55--1
+68--54
+info:     end player 0
+info:     start player 1
+1--49
+45--1
+68--11
+46--68
+30--68
+1--27
+24--1
+19--68
+1--29
+29--1
+37--1
+56--68
+61--1
+68--33
+1--3
+info:     end player 1
+info:     start player 2
+54--68
+68--41
+21--1
+35--68
+43--1
+27--68
+1--67
+68--21
+40--1
+68--51
+19--1
+31--1
+52--68
+1--14
+68--28
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 13
+info: start round 14
+info:     start player 0
+68--43
+68--45
+55--1
+68--13
+35--1
+12--1
+1--24
+51--1
+33--68
+61--68
+68--5
+68--54
+68--62
+68--48
+1--57
+info:     end player 0
+info:     start player 1
+1--3
+37--1
+29--1
+56--68
+30--68
+61--1
+68--11
+1--49
+24--1
+1--29
+46--68
+1--27
+19--68
+45--1
+68--33
+info:     end player 1
+info:     start player 2
+27--68
+68--28
+31--1
+43--1
+68--51
+40--1
+35--68
+19--1
+52--68
+1--14
+21--1
+68--21
+1--67
+54--68
+68--41
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 14
+info: start round 15
+info:     start player 0
+61--68
+55--1
+68--48
+68--13
+12--1
+68--45
+1--24
+33--68
+1--57
+68--5
+35--1
+68--54
+51--1
+68--43
+68--62
+info:     end player 0
+info:     start player 1
+1--3
+24--1
+61--1
+56--68
+19--68
+68--11
+46--68
+1--49
+68--33
+29--1
+30--68
+45--1
+37--1
+1--27
+1--29
+info:     end player 1
+info:     start player 2
+19--1
+68--51
+21--1
+43--1
+52--68
+1--14
+40--1
+31--1
+68--28
+1--67
+68--41
+27--68
+54--68
+68--21
+35--68
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 15
+info: start round 16
+info:     start player 0
+68--54
+51--1
+33--68
+1--24
+68--5
+61--68
+55--1
+68--48
+1--57
+68--43
+68--13
+35--1
+68--62
+68--45
+12--1
+info:     end player 0
+info:     start player 1
+61--1
+56--68
+68--33
+46--68
+68--11
+19--68
+1--29
+1--3
+45--1
+1--27
+24--1
+1--49
+29--1
+30--68
+37--1
+info:     end player 1
+info:     start player 2
+54--68
+1--14
+68--41
+40--1
+68--28
+68--51
+68--21
+19--1
+35--68
+31--1
+43--1
+27--68
+21--1
+52--68
+1--67
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 16
+info: start round 17
+info:     start player 0
+68--13
+1--24
+51--1
+12--1
+61--68
+33--68
+68--5
+68--48
+55--1
+68--45
+35--1
+68--43
+68--54
+1--57
+68--62
+info:     end player 0
+info:     start player 1
+68--33
+30--68
+61--1
+1--49
+19--68
+37--1
+29--1
+46--68
+1--27
+1--3
+56--68
+45--1
+24--1
+68--11
+1--29
+info:     end player 1
+info:     start player 2
+52--68
+43--1
+54--68
+31--1
+68--51
+1--14
+68--21
+1--67
+40--1
+68--41
+21--1
+19--1
+35--68
+27--68
+68--28
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 17
+info: start round 18
+info:     start player 0
+1--24
+61--68
+68--45
+55--1
+68--62
+68--54
+68--48
+68--5
+12--1
+33--68
+1--57
+51--1
+68--43
+68--13
+35--1
+info:     end player 0
+info:     start player 1
+56--68
+68--11
+24--1
+45--1
+68--33
+29--1
+46--68
+1--29
+30--68
+19--68
+1--27
+1--3
+1--49
+61--1
+37--1
+info:     end player 1
+info:     start player 2
+21--1
+27--68
+31--1
+1--67
+68--28
+52--68
+68--21
+68--51
+43--1
+40--1
+68--41
+19--1
+35--68
+54--68
+1--14
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 18
+info: start round 19
+info:     start player 0
+68--45
+55--1
+68--5
+1--24
+68--43
+33--68
+1--57
+61--68
+12--1
+68--54
+68--13
+51--1
+68--62
+35--1
+68--48
+info:     end player 0
+info:     start player 1
+1--27
+1--3
+1--29
+61--1
+45--1
+24--1
+1--49
+56--68
+30--68
+37--1
+46--68
+68--11
+68--33
+29--1
+19--68
+info:     end player 1
+info:     start player 2
+19--1
+1--67
+40--1
+54--68
+21--1
+68--28
+52--68
+68--51
+35--68
+31--1
+1--14
+68--41
+43--1
+68--21
+27--68
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 19
+info: start round 20
+info:     start player 0
+61--68
+68--43
+35--1
+55--1
+1--57
+51--1
+68--54
+68--13
+68--62
+12--1
+33--68
+68--5
+68--48
+68--45
+1--24
+info:     end player 0
+info:     start player 1
+68--33
+1--29
+19--68
+29--1
+1--27
+68--11
+45--1
+1--49
+24--1
+61--1
+37--1
+1--3
+30--68
+56--68
+46--68
+info:     end player 1
+info:     start player 2
+68--21
+68--41
+43--1
+27--68
+68--51
+1--14
+19--1
+40--1
+1--67
+68--28
+52--68
+54--68
+31--1
+35--68
+21--1
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 20
+info: start round 21
+info:     start player 0
+61--68
+1--24
+51--1
+1--57
+33--68
+68--43
+68--5
+68--54
+55--1
+68--62
+12--1
+68--13
+35--1
+68--48
+68--45
+info:     end player 0
+info:     start player 1
+46--68
+1--27
+61--1
+29--1
+68--11
+45--1
+56--68
+37--1
+68--33
+30--68
+24--1
+1--49
+1--29
+1--3
+19--68
+info:     end player 1
+info:     start player 2
+68--21
+68--28
+54--68
+40--1
+27--68
+43--1
+31--1
+19--1
+1--14
+52--68
+1--67
+68--41
+68--51
+21--1
+35--68
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 21
+info: start round 22
+info:     start player 0
+68--43
+55--1
+1--57
+51--1
+68--13
+68--5
+68--62
+68--45
+68--54
+33--68
+12--1
+68--48
+1--24
+35--1
+61--68
+info:     end player 0
+info:     start player 1
+56--68
+1--3
+1--27
+37--1
+1--29
+61--1
+46--68
+68--11
+24--1
+29--1
+1--49
+45--1
+68--33
+19--68
+30--68
+info:     end player 1
+info:     start player 2
+35--68
+1--67
+68--51
+68--28
+68--41
+54--68
+19--1
+40--1
+21--1
+68--21
+43--1
+31--1
+1--14
+27--68
+52--68
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 22
+info: start round 23
+info:     start player 0
+68--48
+35--1
+55--1
+68--45
+68--5
+33--68
+1--57
+51--1
+61--68
+68--43
+68--54
+68--13
+68--62
+1--24
+12--1
+info:     end player 0
+info:     start player 1
+19--68
+29--1
+61--1
+24--1
+1--27
+56--68
+1--29
+68--11
+46--68
+1--49
+45--1
+37--1
+68--33
+30--68
+1--3
+info:     end player 1
+info:     start player 2
+31--1
+43--1
+1--67
+54--68
+40--1
+68--51
+68--21
+68--28
+35--68
+27--68
+19--1
+68--41
+21--1
+52--68
+1--14
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 23
+info: start round 24
+info:     start player 0
+51--1
+68--43
+68--48
+33--68
+12--1
+68--45
+55--1
+68--13
+68--5
+1--57
+61--68
+68--62
+35--1
+68--54
+1--24
+info:     end player 0
+info:     start player 1
+61--1
+1--27
+29--1
+1--3
+45--1
+68--11
+56--68
+19--68
+37--1
+30--68
+46--68
+1--29
+68--33
+24--1
+1--49
+info:     end player 1
+info:     start player 2
+52--68
+1--14
+31--1
+68--28
+54--68
+43--1
+40--1
+68--21
+21--1
+27--68
+68--51
+19--1
+35--68
+68--41
+1--67
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 24
+info: start round 25
+info:     start player 0
+68--43
+1--24
+68--13
+35--1
+61--68
+68--5
+51--1
+68--62
+68--45
+55--1
+68--54
+68--48
+12--1
+33--68
+1--57
+info:     end player 0
+info:     start player 1
+37--1
+61--1
+24--1
+1--29
+29--1
+68--33
+46--68
+1--49
+19--68
+1--27
+68--11
+1--3
+30--68
+45--1
+56--68
+info:     end player 1
+info:     start player 2
+40--1
+68--51
+54--68
+19--1
+68--41
+21--1
+52--68
+27--68
+43--1
+68--21
+1--67
+1--14
+68--28
+31--1
+35--68
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 25
+info: start round 26
+info:     start player 0
+55--1
+68--45
+68--5
+12--1
+68--13
+35--1
+68--54
+33--68
+1--57
+68--43
+51--1
+61--68
+68--48
+68--62
+1--24
+info:     end player 0
+info:     start player 1
+30--68
+29--1
+68--11
+1--27
+37--1
+19--68
+1--49
+56--68
+1--3
+61--1
+24--1
+46--68
+68--33
+45--1
+1--29
+info:     end player 1
+info:     start player 2
+68--28
+1--14
+54--68
+1--67
+43--1
+68--21
+19--1
+35--68
+27--68
+40--1
+21--1
+68--41
+52--68
+68--51
+31--1
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 26
+info: start round 27
+info:     start player 0
+68--43
+68--13
+68--5
+1--24
+68--48
+1--57
+51--1
+68--45
+68--54
+35--1
+12--1
+55--1
+68--62
+33--68
+61--68
+info:     end player 0
+info:     start player 1
+68--33
+29--1
+30--68
+45--1
+1--49
+37--1
+56--68
+1--29
+1--27
+19--68
+68--11
+46--68
+24--1
+61--1
+1--3
+info:     end player 1
+info:     start player 2
+21--1
+54--68
+40--1
+68--51
+43--1
+31--1
+68--21
+1--67
+1--14
+68--28
+19--1
+68--41
+52--68
+35--68
+27--68
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 27
+info: start round 28
+info:     start player 0
+68--45
+33--68
+55--1
+12--1
+68--5
+1--57
+68--62
+68--43
+68--13
+61--68
+35--1
+68--54
+68--48
+1--24
+51--1
+info:     end player 0
+info:     start player 1
+30--68
+68--11
+1--49
+45--1
+68--33
+1--29
+37--1
+1--27
+46--68
+29--1
+56--68
+24--1
+1--3
+19--68
+61--1
+info:     end player 1
+info:     start player 2
+1--14
+21--1
+40--1
+19--1
+1--67
+68--21
+68--28
+43--1
+52--68
+54--68
+68--51
+27--68
+31--1
+68--41
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 28
+info: start round 29
+info:     start player 0
+12--1
+68--43
+68--5
+68--54
+68--62
+33--68
+68--13
+51--1
+1--57
+61--68
+35--1
+68--48
+68--45
+55--1
+1--24
+info:     end player 0
+info:     start player 1
+68--11
+1--29
+19--68
+30--68
+1--27
+68--33
+61--1
+29--1
+46--68
+56--68
+45--1
+1--49
+1--3
+24--1
+37--1
+info:     end player 1
+info:     start player 2
+19--1
+40--1
+1--67
+1--14
+31--1
+52--68
+68--41
+21--1
+43--1
+68--21
+27--68
+68--51
+54--68
+68--28
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 29
+info: start round 30
+info:     start player 0
+1--57
+68--48
+35--1
+68--13
+12--1
+51--1
+68--5
+68--54
+55--1
+1--24
+68--62
+68--43
+68--45
+61--68
+33--68
+info:     end player 0
+info:     start player 1
+24--1
+45--1
+68--11
+37--1
+61--1
+46--68
+30--68
+1--29
+56--68
+1--27
+1--3
+1--49
+68--33
+29--1
+19--68
+info:     end player 1
+info:     start player 2
+19--1
+27--68
+43--1
+68--41
+31--1
+68--51
+68--28
+52--68
+21--1
+1--67
+68--21
+54--68
+1--14
+40--1
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 30
+info: start round 31
+info:     start player 0
+35--1
+55--1
+51--1
+1--24
+68--13
+61--68
+33--68
+1--57
+68--48
+68--5
+68--45
+68--62
+68--43
+68--54
+12--1
+info:     end player 0
+info:     start player 1
+19--68
+68--33
+1--27
+61--1
+1--3
+1--29
+56--68
+37--1
+1--49
+30--68
+45--1
+29--1
+46--68
+68--11
+24--1
+info:     end player 1
+info:     start player 2
+54--68
+21--1
+1--14
+27--68
+68--51
+68--21
+1--67
+31--1
+68--28
+43--1
+40--1
+68--41
+52--68
+19--1
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 31
+info: start round 32
+info:     start player 0
+68--43
+33--68
+61--68
+68--62
+68--13
+35--1
+55--1
+51--1
+68--48
+68--54
+1--57
+68--5
+68--45
+1--24
+12--1
+info:     end player 0
+info:     start player 1
+68--33
+1--27
+29--1
+61--1
+56--68
+37--1
+1--49
+19--68
+68--11
+30--68
+1--29
+24--1
+1--3
+45--1
+46--68
+info:     end player 1
+info:     start player 2
+43--1
+68--28
+68--51
+21--1
+68--21
+19--1
+68--41
+40--1
+31--1
+1--67
+27--68
+54--68
+52--68
+1--14
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 32
+info: start round 33
+info:     start player 0
+12--1
+68--45
+55--1
+33--68
+68--5
+68--48
+1--24
+68--43
+35--1
+68--54
+51--1
+1--57
+68--62
+68--13
+61--68
+info:     end player 0
+info:     start player 1
+68--11
+61--1
+1--49
+68--33
+30--68
+45--1
+37--1
+1--29
+24--1
+1--27
+1--3
+29--1
+19--68
+46--68
+56--68
+info:     end player 1
+info:     start player 2
+40--1
+68--28
+31--1
+68--51
+21--1
+68--41
+19--1
+54--68
+68--21
+52--68
+1--14
+1--67
+43--1
+27--68
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 33
+info: start round 34
+info:     start player 0
+1--24
+68--13
+35--1
+68--54
+68--48
+51--1
+1--57
+55--1
+68--8
+68--5
+33--68
+68--43
+12--1
+61--68
+68--62
+68--45
+info:     end player 0
+info:     start player 1
+45--1
+46--68
+1--29
+1--3
+1--49
+30--68
+29--1
+19--68
+56--68
+24--1
+1--27
+68--11
+61--1
+68--33
+37--1
+info:     end player 1
+info:     start player 2
+21--1
+68--41
+52--68
+54--68
+31--1
+68--28
+1--14
+68--21
+1--67
+19--1
+43--1
+27--68
+40--1
+68--51
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 34
+info: start round 35
+info:     start player 0
+68--13
+68--48
+33--68
+68--54
+61--68
+51--1
+68--45
+35--1
+1--57
+68--43
+55--1
+68--5
+12--1
+68--8
+1--24
+68--62
+info:     end player 0
+info:     start player 1
+1--49
+30--68
+45--1
+56--68
+37--1
+29--1
+61--1
+24--1
+1--29
+19--68
+68--11
+1--27
+68--33
+1--3
+46--68
+info:     end player 1
+info:     start player 2
+27--68
+68--21
+68--41
+19--1
+68--51
+31--1
+68--28
+1--14
+54--68
+43--1
+1--67
+52--68
+21--1
+40--1
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 35
+info: start round 36
+info:     start player 0
+1--24
+68--54
+51--1
+68--48
+33--68
+68--13
+68--8
+68--43
+68--5
+55--1
+68--62
+61--68
+35--1
+1--57
+68--45
+12--1
+info:     end player 0
+info:     start player 1
+37--1
+19--68
+61--1
+24--1
+68--33
+1--29
+56--68
+45--1
+46--68
+1--27
+1--3
+29--1
+68--11
+30--68
+1--49
+info:     end player 1
+info:     start player 2
+43--1
+68--21
+19--1
+68--41
+1--67
+52--68
+68--28
+31--1
+1--14
+40--1
+68--51
+54--68
+27--68
+21--1
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 36
+info: start round 37
+info:     start player 0
+68--5
+68--45
+68--62
+51--1
+68--43
+1--24
+61--68
+55--1
+1--57
+68--48
+33--68
+68--13
+12--1
+35--1
+68--8
+68--54
+info:     end player 0
+info:     start player 1
+61--1
+56--68
+29--1
+24--1
+45--1
+30--68
+37--1
+1--27
+1--49
+1--3
+68--33
+68--11
+46--68
+1--29
+19--68
+info:     end player 1
+info:     start player 2
+68--28
+68--41
+27--68
+40--1
+68--51
+54--68
+19--1
+1--14
+52--68
+68--21
+21--1
+1--67
+43--1
+31--1
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 37
+info: start round 38
+info:     start player 0
+1--24
+51--1
+68--62
+33--68
+61--68
+68--54
+1--57
+55--1
+68--5
+68--48
+35--1
+68--13
+68--43
+68--8
+12--1
+68--45
+info:     end player 0
+info:     start player 1
+68--11
+56--68
+1--49
+1--27
+68--33
+24--1
+1--29
+46--68
+45--1
+30--68
+61--1
+1--3
+29--1
+19--68
+37--1
+info:     end player 1
+info:     start player 2
+40--1
+19--1
+68--21
+68--28
+31--1
+52--68
+54--68
+27--68
+43--1
+1--67
+21--1
+1--14
+68--51
+68--41
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 38
+info: start round 39
+info:     start player 0
+35--1
+33--68
+12--1
+68--8
+68--62
+1--24
+68--45
+68--48
+55--1
+68--13
+68--43
+68--54
+61--68
+68--5
+1--57
+51--1
+info:     end player 0
+info:     start player 1
+24--1
+68--11
+1--27
+29--1
+1--49
+19--68
+56--68
+30--68
+45--1
+68--33
+37--1
+1--3
+61--1
+46--68
+1--29
+info:     end player 1
+info:     start player 2
+68--51
+1--14
+43--1
+52--68
+31--1
+68--41
+1--67
+68--21
+40--1
+27--68
+19--1
+68--28
+21--1
+54--68
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 39
+info: start round 40
+info:     start player 0
+68--48
+68--43
+1--57
+1--24
+61--68
+55--1
+33--68
+68--8
+68--62
+68--45
+12--1
+51--1
+68--54
+68--5
+35--1
+68--13
+info:     end player 0
+info:     start player 1
+46--68
+1--49
+30--68
+1--3
+61--1
+1--27
+29--1
+56--68
+1--29
+45--1
+37--1
+19--68
+68--11
+68--33
+24--1
+info:     end player 1
+info:     start player 2
+1--14
+68--28
+68--51
+68--21
+1--67
+52--68
+54--68
+21--1
+19--1
+27--68
+43--1
+31--1
+40--1
+68--41
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 40
+info: start round 41
+info:     start player 0
+1--24
+68--43
+68--54
+55--1
+1--57
+35--1
+68--62
+33--68
+68--5
+68--48
+68--13
+68--8
+51--1
+61--68
+68--45
+12--1
+info:     end player 0
+info:     start player 1
+24--1
+45--1
+61--1
+1--3
+30--68
+56--68
+1--27
+46--68
+37--1
+1--49
+29--1
+1--29
+19--68
+68--11
+68--33
+info:     end player 1
+info:     start player 2
+1--67
+43--1
+40--1
+1--14
+68--21
+21--1
+68--51
+68--28
+68--41
+31--1
+52--68
+27--68
+19--1
+54--68
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 41
+info: start round 42
+info:     start player 0
+1--57
+68--48
+68--62
+55--1
+68--5
+68--43
+51--1
+68--54
+61--68
+68--45
+33--68
+68--8
+35--1
+68--13
+1--24
+12--1
+info:     end player 0
+info:     start player 1
+68--33
+19--68
+30--68
+37--1
+1--27
+29--1
+61--1
+46--68
+68--11
+1--29
+56--68
+45--1
+1--49
+1--3
+24--1
+info:     end player 1
+info:     start player 2
+68--21
+21--1
+1--14
+40--1
+54--68
+19--1
+68--41
+68--51
+52--68
+1--67
+68--28
+43--1
+27--68
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 42
+info: start round 43
+info:     start player 0
+68--48
+51--1
+68--43
+68--8
+1--24
+68--54
+1--57
+61--68
+68--45
+68--62
+33--68
+12--1
+55--1
+68--13
+35--1
+68--5
+info:     end player 0
+info:     start player 1
+46--68
+30--68
+68--11
+56--68
+19--68
+45--1
+29--1
+37--1
+24--1
+1--27
+1--3
+68--33
+1--49
+1--29
+61--1
+info:     end player 1
+info:     start player 2
+68--21
+19--1
+52--68
+1--14
+40--1
+1--67
+68--28
+21--1
+27--68
+43--1
+68--51
+54--68
+68--41
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 43
+info: start round 44
+info:     start player 0
+68--8
+68--62
+68--54
+12--1
+1--24
+33--68
+68--45
+68--5
+61--68
+55--1
+68--43
+35--1
+1--57
+68--48
+68--13
+51--1
+info:     end player 0
+info:     start player 1
+61--1
+30--68
+1--27
+56--68
+29--1
+1--49
+46--68
+1--29
+45--1
+68--33
+19--68
+68--11
+37--1
+24--1
+1--3
+info:     end player 1
+info:     start player 2
+54--68
+21--1
+27--68
+68--28
+1--14
+52--68
+1--67
+19--1
+40--1
+68--21
+68--41
+43--1
+68--51
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 44
+info: start round 45
+info:     start player 0
+68--5
+1--24
+68--54
+68--13
+12--1
+51--1
+35--1
+68--8
+68--62
+55--1
+68--43
+68--45
+1--57
+68--48
+33--68
+61--68
+info:     end player 0
+info:     start player 1
+29--1
+46--68
+1--3
+37--1
+24--1
+45--1
+1--49
+61--1
+68--11
+68--33
+56--68
+1--27
+1--29
+30--68
+19--68
+info:     end player 1
+info:     start player 2
+68--21
+1--14
+1--67
+27--68
+68--41
+43--1
+68--51
+40--1
+52--68
+54--68
+68--28
+19--1
+21--1
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 45
+info: start round 46
+info:     start player 0
+68--45
+12--1
+68--5
+68--48
+51--1
+35--1
+61--68
+1--57
+55--1
+68--62
+68--43
+68--8
+1--24
+68--54
+68--13
+33--68
+info:     end player 0
+info:     start player 1
+68--11
+29--1
+56--68
+61--1
+24--1
+46--68
+1--29
+30--68
+19--68
+37--1
+68--33
+1--27
+1--49
+45--1
+1--3
+info:     end player 1
+info:     start player 2
+43--1
+40--1
+27--68
+68--21
+68--28
+21--1
+1--14
+68--51
+19--1
+1--67
+52--68
+68--41
+54--68
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 46
+info: start round 47
+info:     start player 0
+68--43
+68--5
+68--13
+61--68
+68--45
+1--57
+12--1
+1--24
+33--68
+51--1
+68--54
+68--48
+68--62
+55--1
+68--8
+info:     end player 0
+info:     start player 1
+29--1
+30--68
+45--1
+1--27
+1--49
+24--1
+37--1
+46--68
+19--68
+61--1
+68--11
+68--33
+1--29
+1--3
+56--68
+7--68
+info:     end player 1
+info:     start player 2
+40--1
+21--1
+68--41
+27--68
+52--68
+1--14
+1--67
+19--1
+68--51
+43--1
+68--28
+54--68
+68--21
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 47
+info: start round 48
+info:     start player 0
+61--68
+68--54
+68--45
+12--1
+68--62
+68--5
+68--13
+1--57
+68--48
+55--1
+1--24
+68--43
+68--8
+51--1
+33--68
+info:     end player 0
+info:     start player 1
+19--68
+61--1
+7--68
+45--1
+46--68
+1--3
+1--27
+56--68
+30--68
+29--1
+68--33
+1--49
+37--1
+68--11
+1--29
+24--1
+info:     end player 1
+info:     start player 2
+68--41
+40--1
+19--1
+68--28
+43--1
+68--21
+27--68
+54--68
+52--68
+1--14
+1--67
+21--1
+68--51
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 48
+info: start round 49
+info:     start player 0
+68--62
+68--8
+51--1
+68--5
+68--48
+1--24
+12--1
+68--54
+68--45
+33--68
+61--68
+68--43
+55--1
+1--57
+68--13
+info:     end player 0
+info:     start player 1
+61--1
+37--1
+29--1
+46--68
+1--29
+1--27
+7--68
+68--11
+30--68
+68--33
+45--1
+24--1
+1--3
+1--49
+19--68
+56--68
+info:     end player 1
+info:     start player 2
+54--68
+1--14
+68--21
+1--67
+40--1
+43--1
+68--41
+68--28
+68--51
+21--1
+27--68
+19--1
+52--68
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 49
+info: start round 50
+info:     start player 0
+68--8
+12--1
+33--68
+1--57
+61--68
+68--45
+68--13
+68--5
+68--43
+68--62
+68--48
+51--1
+55--1
+1--24
+68--54
+info:     end player 0
+info:     start player 1
+46--68
+29--1
+1--3
+1--27
+68--33
+61--1
+1--49
+1--29
+30--68
+56--68
+45--1
+19--68
+68--11
+7--68
+24--1
+37--1
+info:     end player 1
+info:     start player 2
+43--1
+1--14
+27--68
+68--21
+21--1
+1--67
+68--41
+54--68
+40--1
+68--51
+68--28
+52--68
+19--1
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 50
+info: start round 51
+info:     start player 0
+51--1
+68--5
+68--13
+68--8
+68--54
+68--43
+68--48
+33--68
+68--45
+1--57
+1--24
+12--1
+68--62
+61--68
+55--1
+info:     end player 0
+info:     start player 1
+68--11
+1--49
+45--1
+7--68
+24--1
+68--33
+37--1
+61--1
+1--27
+30--68
+1--29
+29--1
+1--3
+19--68
+56--68
+46--68
+info:     end player 1
+info:     start player 2
+68--28
+52--68
+1--14
+68--41
+68--51
+40--1
+54--68
+27--68
+21--1
+43--1
+68--21
+1--67
+19--1
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 51
+info: start round 52
+info:     start player 0
+68--45
+55--1
+68--13
+68--48
+68--62
+68--43
+68--8
+68--5
+51--1
+1--57
+33--68
+68--54
+61--68
+12--1
+1--24
+info:     end player 0
+info:     start player 1
+1--27
+46--68
+1--49
+61--1
+45--1
+29--1
+7--68
+68--11
+56--68
+30--68
+1--3
+24--1
+1--29
+37--1
+19--68
+68--33
+info:     end player 1
+info:     start player 2
+27--68
+68--41
+40--1
+1--14
+43--1
+52--68
+68--21
+68--51
+54--68
+1--67
+19--1
+68--28
+21--1
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 52
+info: start round 53
+info:     start player 0
+68--62
+68--54
+61--68
+1--57
+68--43
+68--5
+68--45
+55--1
+68--8
+51--1
+1--24
+68--48
+33--68
+68--13
+12--1
+info:     end player 0
+info:     start player 1
+68--11
+61--1
+1--49
+45--1
+19--68
+1--3
+1--27
+37--1
+7--68
+30--68
+46--68
+1--29
+24--1
+56--68
+68--33
+29--1
+info:     end player 1
+info:     start player 2
+54--68
+68--41
+68--21
+1--14
+68--28
+52--68
+43--1
+40--1
+19--1
+1--67
+27--68
+21--1
+68--51
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 53
+info: start round 54
+info:     start player 0
+51--1
+55--1
+68--45
+68--62
+68--48
+68--8
+61--68
+1--24
+1--57
+68--54
+12--1
+68--5
+33--68
+68--13
+68--43
+info:     end player 0
+info:     start player 1
+7--68
+46--68
+45--1
+68--11
+30--68
+1--29
+37--1
+1--3
+68--33
+24--1
+19--68
+29--1
+1--49
+56--68
+1--27
+61--1
+info:     end player 1
+info:     start player 2
+27--68
+68--21
+43--1
+19--1
+54--68
+21--1
+1--14
+68--51
+1--67
+52--68
+68--28
+40--1
+68--41
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 54
+info: start round 55
+info:     start player 0
+1--57
+68--43
+61--68
+51--1
+68--54
+33--68
+68--62
+68--48
+1--24
+68--13
+68--45
+12--1
+68--5
+55--1
+68--8
+info:     end player 0
+info:     start player 1
+1--49
+1--3
+61--1
+19--68
+37--1
+45--1
+46--68
+30--68
+24--1
+68--11
+68--33
+7--68
+1--27
+56--68
+29--1
+1--29
+info:     end player 1
+info:     start player 2
+1--67
+68--41
+40--1
+68--28
+21--1
+52--68
+19--1
+27--68
+68--21
+54--68
+1--14
+43--1
+68--51
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 55
+info: start round 56
+info:     start player 0
+12--1
+68--54
+1--57
+33--68
+68--48
+68--62
+68--5
+51--1
+68--13
+68--45
+1--24
+61--68
+68--43
+55--1
+68--8
+info:     end player 0
+info:     start player 1
+1--3
+1--49
+46--68
+37--1
+1--27
+19--68
+68--33
+24--1
+61--1
+68--11
+45--1
+1--29
+29--1
+56--68
+30--68
+7--68
+info:     end player 1
+info:     start player 2
+1--14
+40--1
+21--1
+68--41
+43--1
+68--21
+68--28
+19--1
+54--68
+68--51
+1--67
+27--68
+52--68
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 56
+info: start round 57
+info:     start player 0
+33--68
+68--45
+68--13
+68--54
+12--1
+61--68
+68--62
+51--1
+55--1
+68--48
+68--43
+1--24
+68--5
+1--57
+68--8
+info:     end player 0
+info:     start player 1
+1--27
+45--1
+61--1
+29--1
+37--1
+1--29
+30--68
+68--11
+1--3
+56--68
+24--1
+68--33
+46--68
+7--68
+1--49
+19--68
+info:     end player 1
+info:     start player 2
+19--1
+1--67
+68--21
+43--1
+40--1
+68--41
+52--68
+68--28
+21--1
+68--51
+27--68
+1--14
+54--68
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 57
+info: start round 58
+info:     start player 0
+68--43
+68--54
+68--62
+68--45
+68--13
+55--1
+68--8
+51--1
+12--1
+68--5
+61--68
+1--24
+1--57
+33--68
+68--48
+info:     end player 0
+info:     start player 1
+61--1
+1--3
+1--29
+68--11
+45--1
+56--68
+68--33
+46--68
+1--27
+7--68
+1--49
+24--1
+37--1
+19--68
+30--68
+29--1
+info:     end player 1
+info:     start player 2
+68--41
+43--1
+68--51
+52--68
+40--1
+19--1
+1--67
+68--28
+21--1
+27--68
+68--21
+54--68
+1--14
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 58
+info: start round 59
+info:     start player 0
+68--62
+51--1
+68--48
+55--1
+33--68
+1--57
+68--54
+61--68
+68--45
+68--13
+1--24
+68--5
+68--43
+12--1
+68--8
+info:     end player 0
+info:     start player 1
+30--68
+1--49
+45--1
+37--1
+29--1
+1--29
+1--3
+61--1
+1--27
+24--1
+7--68
+19--68
+68--33
+56--68
+68--11
+46--68
+info:     end player 1
+info:     start player 2
+43--1
+54--68
+68--51
+68--28
+21--1
+68--21
+40--1
+68--41
+27--68
+1--14
+52--68
+19--1
+1--67
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 59
+info: start round 60
+info:     start player 0
+68--62
+61--68
+68--43
+1--24
+68--45
+12--1
+68--5
+1--57
+55--1
+68--54
+33--68
+51--1
+68--13
+68--48
+68--8
+info:     end player 0
+info:     start player 1
+30--68
+7--68
+56--68
+1--27
+68--33
+19--68
+1--49
+37--1
+1--29
+1--3
+61--1
+46--68
+45--1
+24--1
+29--1
+68--11
+info:     end player 1
+info:     start player 2
+68--21
+68--41
+54--68
+1--67
+19--1
+68--51
+43--1
+68--28
+52--68
+1--14
+27--68
+40--1
+21--1
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 60
+info: start round 61
+info:     start player 0
+51--1
+68--8
+61--68
+1--57
+68--48
+68--43
+33--68
+68--62
+68--13
+68--5
+12--1
+55--1
+68--54
+68--45
+1--24
+info:     end player 0
+info:     start player 1
+45--1
+1--27
+68--11
+37--1
+1--3
+24--1
+1--29
+29--1
+46--68
+61--1
+30--68
+56--68
+19--68
+1--49
+7--68
+68--33
+info:     end player 1
+info:     start player 2
+19--1
+68--21
+54--68
+52--68
+40--1
+27--68
+21--1
+68--28
+1--67
+43--1
+1--14
+68--41
+68--51
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 61
+info: start round 62
+info:     start player 0
+68--13
+68--62
+33--68
+68--54
+68--48
+1--57
+68--43
+1--24
+68--8
+12--1
+55--1
+68--5
+51--1
+61--68
+68--45
+info:     end player 0
+info:     start player 1
+7--68
+46--68
+1--27
+45--1
+29--1
+30--68
+68--11
+61--1
+19--68
+24--1
+1--29
+68--33
+56--68
+37--1
+1--3
+1--49
+info:     end player 1
+info:     start player 2
+68--41
+52--68
+21--1
+43--1
+68--21
+19--1
+40--1
+68--51
+54--68
+68--28
+27--68
+1--14
+1--67
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 62
+info: start round 63
+info:     start player 0
+68--43
+68--13
+68--45
+33--68
+61--68
+51--1
+1--57
+12--1
+68--62
+68--54
+1--24
+68--48
+68--5
+68--8
+55--1
+info:     end player 0
+info:     start player 1
+29--1
+30--68
+1--49
+45--1
+19--68
+61--1
+68--11
+37--1
+24--1
+1--27
+7--68
+68--33
+56--68
+1--3
+46--68
+1--29
+info:     end player 1
+info:     start player 2
+68--28
+21--1
+27--68
+52--68
+43--1
+68--41
+54--68
+1--67
+40--1
+68--51
+1--14
+68--21
+19--1
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 63
+info: start round 64
+info:     start player 0
+68--48
+12--1
+51--1
+68--54
+33--68
+68--5
+68--43
+68--62
+68--45
+1--57
+55--1
+61--68
+68--8
+68--13
+1--24
+info:     end player 0
+info:     start player 1
+1--27
+30--68
+7--68
+24--1
+56--68
+1--3
+1--29
+46--68
+19--68
+45--1
+37--1
+68--33
+29--1
+1--49
+61--1
+68--11
+info:     end player 1
+info:     start player 2
+43--1
+1--67
+52--68
+21--1
+68--51
+68--28
+68--41
+1--14
+54--68
+40--1
+68--21
+19--1
+27--68
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 64
+info: start round 65
+info:     start player 0
+55--1
+68--48
+61--68
+68--62
+1--24
+68--5
+68--45
+68--8
+33--68
+68--13
+1--57
+68--43
+68--54
+51--1
+12--1
+info:     end player 0
+info:     start player 1
+37--1
+30--68
+29--1
+7--68
+1--49
+1--27
+45--1
+68--11
+61--1
+24--1
+46--68
+19--68
+68--33
+1--3
+56--68
+1--29
+info:     end player 1
+info:     start player 2
+52--68
+43--1
+68--41
+68--28
+68--51
+27--68
+1--67
+1--14
+19--1
+21--1
+40--1
+54--68
+68--21
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 65
+info: start round 66
+info:     start player 0
+55--1
+68--45
+1--57
+51--1
+68--5
+1--24
+68--13
+68--8
+12--1
+61--68
+68--62
+33--68
+68--43
+68--54
+68--48
+info:     end player 0
+info:     start player 1
+19--68
+1--27
+1--49
+24--1
+37--1
+61--1
+1--29
+1--3
+68--11
+46--68
+45--1
+68--33
+29--1
+7--68
+56--68
+30--68
+info:     end player 1
+info:     start player 2
+52--68
+43--1
+21--1
+68--28
+68--51
+54--68
+1--14
+68--41
+1--67
+27--68
+68--21
+19--1
+40--1
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 66
+info: start round 67
+info:     start player 0
+68--45
+68--13
+61--68
+68--54
+68--48
+33--68
+51--1
+68--5
+12--1
+68--8
+68--43
+1--24
+1--57
+68--62
+55--1
+info:     end player 0
+info:     start player 1
+29--1
+1--27
+37--1
+56--68
+68--11
+1--49
+19--68
+24--1
+1--3
+30--68
+7--68
+61--1
+68--33
+1--29
+46--68
+45--1
+info:     end player 1
+info:     start player 2
+52--68
+19--1
+21--1
+40--1
+68--28
+68--51
+54--68
+27--68
+1--14
+43--1
+1--67
+68--21
+68--41
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 67
+info: start round 68
+info:     start player 0
+33--68
+55--1
+68--62
+68--13
+1--57
+68--45
+51--1
+68--5
+1--24
+68--54
+68--43
+68--8
+68--48
+12--1
+61--68
+info:     end player 0
+info:     start player 1
+19--68
+7--68
+68--11
+29--1
+37--1
+1--49
+46--68
+56--68
+1--29
+1--3
+61--1
+24--1
+68--33
+1--27
+30--68
+45--1
+info:     end player 1
+info:     start player 2
+27--68
+1--67
+54--68
+68--21
+21--1
+1--14
+68--41
+68--28
+40--1
+19--1
+43--1
+68--51
+52--68
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 68
+info: start round 69
+info:     start player 0
+68--45
+61--68
+68--54
+68--43
+68--13
+68--5
+55--1
+1--57
+51--1
+68--62
+33--68
+68--48
+1--24
+68--8
+12--1
+info:     end player 0
+info:     start player 1
+24--1
+29--1
+68--11
+19--68
+30--68
+61--1
+56--68
+1--29
+46--68
+1--49
+7--68
+1--27
+37--1
+1--3
+45--1
+68--33
+info:     end player 1
+info:     start player 2
+43--1
+21--1
+68--21
+27--68
+1--14
+54--68
+52--68
+1--67
+19--1
+68--28
+68--41
+40--1
+68--51
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 69
+info: start round 70
+info:     start player 0
+68--43
+68--5
+68--45
+1--24
+68--54
+1--57
+68--8
+68--13
+51--1
+68--62
+68--48
+61--68
+55--1
+12--1
+33--68
+info:     end player 0
+info:     start player 1
+1--3
+24--1
+61--1
+1--27
+7--68
+46--68
+30--68
+19--68
+68--11
+56--68
+1--29
+29--1
+45--1
+37--1
+1--49
+68--33
+info:     end player 1
+info:     start player 2
+21--1
+27--68
+1--14
+68--21
+68--41
+19--1
+43--1
+68--51
+54--68
+1--67
+40--1
+52--68
+68--28
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 70
+info: start round 71
+info:     start player 0
+68--5
+1--24
+68--54
+68--43
+68--8
+68--62
+68--45
+1--57
+12--1
+68--48
+33--68
+51--1
+68--13
+55--1
+61--68
+info:     end player 0
+info:     start player 1
+68--11
+46--68
+68--33
+1--27
+24--1
+7--68
+61--1
+29--1
+56--68
+19--68
+1--3
+30--68
+1--49
+1--29
+37--1
+45--1
+info:     end player 1
+info:     start player 2
+1--67
+1--14
+68--41
+52--68
+54--68
+43--1
+21--1
+40--1
+19--1
+68--51
+68--21
+68--28
+27--68
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 71
+info: start round 72
+info:     start player 0
+12--1
+68--43
+68--8
+68--54
+55--1
+1--57
+51--1
+68--13
+1--24
+68--5
+68--48
+61--68
+68--45
+33--68
+68--62
+info:     end player 0
+info:     start player 1
+68--33
+30--68
+1--49
+1--27
+37--1
+1--29
+24--1
+7--68
+29--1
+68--11
+19--68
+46--68
+1--3
+61--1
+45--1
+56--68
+info:     end player 1
+info:     start player 2
+68--28
+52--68
+68--51
+54--68
+21--1
+19--1
+40--1
+1--14
+27--68
+68--21
+1--67
+43--1
+68--41
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 72
+info: start round 73
+info:     start player 0
+68--45
+68--5
+1--57
+68--13
+51--1
+68--62
+55--1
+68--48
+1--24
+12--1
+68--54
+61--68
+68--8
+68--43
+33--68
+info:     end player 0
+info:     start player 1
+56--68
+37--1
+1--27
+1--3
+46--68
+24--1
+29--1
+68--11
+61--1
+19--68
+45--1
+1--29
+7--68
+30--68
+68--33
+1--49
+info:     end player 1
+info:     start player 2
+1--67
+52--68
+68--51
+68--28
+68--21
+54--68
+19--1
+68--41
+27--68
+40--1
+1--14
+21--1
+43--1
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 73
+info: start round 74
+info:     start player 0
+68--13
+68--54
+68--8
+68--5
+51--1
+68--48
+1--57
+68--43
+68--45
+33--68
+12--1
+55--1
+61--68
+1--24
+68--62
+info:     end player 0
+info:     start player 1
+1--3
+29--1
+56--68
+1--29
+46--68
+7--68
+24--1
+19--68
+61--1
+45--1
+30--68
+68--11
+1--49
+68--33
+1--27
+37--1
+info:     end player 1
+info:     start player 2
+54--68
+68--28
+1--14
+68--51
+40--1
+1--67
+68--21
+43--1
+21--1
+68--41
+27--68
+52--68
+19--1
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 74
+info: start round 75
+info:     start player 0
+68--48
+1--57
+68--8
+68--5
+1--24
+61--68
+51--1
+68--45
+68--54
+68--43
+68--62
+68--13
+55--1
+12--1
+33--68
+info:     end player 0
+info:     start player 1
+1--49
+45--1
+68--11
+29--1
+1--3
+7--68
+19--68
+56--68
+46--68
+37--1
+1--29
+68--33
+61--1
+1--27
+24--1
+30--68
+info:     end player 1
+info:     start player 2
+52--68
+40--1
+68--28
+43--1
+68--51
+68--41
+1--67
+54--68
+1--14
+21--1
+68--21
+27--68
+19--1
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 75
+info: start round 76
+info:     start player 0
+68--5
+68--8
+33--68
+55--1
+61--68
+68--13
+68--45
+68--43
+1--24
+68--62
+68--48
+12--1
+68--54
+1--57
+51--1
+info:     end player 0
+info:     start player 1
+37--1
+29--1
+68--11
+1--3
+1--27
+56--68
+1--49
+30--68
+46--68
+1--29
+19--68
+7--68
+68--33
+24--1
+61--1
+45--1
+info:     end player 1
+info:     start player 2
+19--1
+68--51
+68--21
+1--14
+27--68
+68--28
+68--41
+40--1
+21--1
+1--67
+54--68
+52--68
+43--1
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 76
+info: start round 77
+info:     start player 0
+61--68
+68--5
+1--24
+68--45
+68--48
+55--1
+1--57
+68--13
+68--8
+33--68
+68--62
+51--1
+12--1
+68--54
+68--43
+info:     end player 0
+info:     start player 1
+68--33
+61--1
+1--3
+7--68
+68--11
+45--1
+1--49
+24--1
+56--68
+19--68
+29--1
+37--1
+1--27
+1--29
+30--68
+46--68
+info:     end player 1
+info:     start player 2
+1--14
+68--21
+43--1
+19--1
+68--28
+40--1
+21--1
+68--41
+54--68
+27--68
+52--68
+1--67
+68--51
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 77
+info: start round 78
+info:     start player 0
+68--43
+55--1
+68--45
+33--68
+68--54
+68--62
+68--13
+12--1
+68--5
+61--68
+1--24
+68--8
+68--48
+1--57
+51--1
+info:     end player 0
+info:     start player 1
+7--68
+1--3
+24--1
+46--68
+37--1
+68--11
+30--68
+68--33
+61--1
+1--27
+56--68
+29--1
+1--49
+1--29
+19--68
+45--1
+info:     end player 1
+info:     start player 2
+1--14
+68--51
+21--1
+43--1
+40--1
+68--21
+68--28
+54--68
+52--68
+19--1
+27--68
+1--67
+68--41
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 78
+info: start round 79
+info:     start player 0
+68--45
+68--54
+68--13
+61--68
+12--1
+1--57
+33--68
+68--5
+68--43
+68--62
+1--24
+68--8
+51--1
+55--1
+68--48
+info:     end player 0
+info:     start player 1
+30--68
+1--29
+7--68
+1--27
+24--1
+68--33
+1--49
+29--1
+37--1
+56--68
+68--11
+61--1
+19--68
+1--3
+46--68
+45--1
+info:     end player 1
+info:     start player 2
+19--1
+52--68
+1--14
+68--21
+68--28
+27--68
+21--1
+68--41
+43--1
+54--68
+40--1
+68--51
+1--67
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 79
+info: start round 80
+info:     start player 0
+68--54
+68--8
+51--1
+68--62
+68--13
+1--24
+33--68
+68--43
+68--5
+61--68
+12--1
+55--1
+68--45
+1--57
+68--48
+info:     end player 0
+info:     start player 1
+56--68
+1--3
+68--11
+37--1
+1--29
+19--68
+61--1
+68--33
+30--68
+45--1
+29--1
+1--49
+46--68
+1--27
+24--1
+7--68
+info:     end player 1
+info:     start player 2
+21--1
+19--1
+1--67
+68--21
+1--14
+68--41
+43--1
+52--68
+68--51
+54--68
+40--1
+68--28
+27--68
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 80
+info: start round 81
+info:     start player 0
+68--54
+12--1
+68--62
+33--68
+55--1
+68--43
+68--8
+68--13
+1--24
+68--48
+61--68
+68--45
+1--57
+51--1
+68--5
+info:     end player 0
+info:     start player 1
+29--1
+45--1
+56--68
+7--68
+68--11
+1--3
+19--68
+1--29
+46--68
+1--27
+30--68
+37--1
+68--33
+61--1
+1--49
+24--1
+info:     end player 1
+info:     start player 2
+43--1
+27--68
+68--41
+19--1
+52--68
+21--1
+1--67
+68--28
+40--1
+1--14
+68--51
+54--68
+68--21
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 81
+info: start round 82
+info:     start player 0
+68--5
+68--48
+55--1
+68--43
+33--68
+12--1
+68--8
+68--54
+68--45
+1--57
+1--24
+51--1
+61--68
+68--62
+68--13
+info:     end player 0
+info:     start player 1
+1--27
+1--3
+45--1
+1--49
+68--33
+46--68
+37--1
+19--68
+24--1
+7--68
+29--1
+56--68
+1--29
+68--11
+30--68
+61--1
+info:     end player 1
+info:     start player 2
+27--68
+1--67
+19--1
+68--51
+21--1
+52--68
+54--68
+43--1
+68--21
+1--14
+68--28
+40--1
+68--41
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 82
+info: start round 83
+info:     start player 0
+68--5
+12--1
+51--1
+1--24
+68--54
+33--68
+68--45
+68--13
+68--62
+55--1
+68--48
+68--8
+1--57
+68--43
+61--68
+info:     end player 0
+info:     start player 1
+68--33
+68--11
+61--1
+19--68
+56--68
+30--68
+7--68
+37--1
+1--49
+1--27
+1--3
+24--1
+1--29
+29--1
+45--1
+46--68
+info:     end player 1
+info:     start player 2
+68--41
+27--68
+21--1
+54--68
+40--1
+1--14
+43--1
+1--67
+19--1
+52--68
+68--28
+68--51
+68--21
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 83
+info: start round 84
+info:     start player 0
+68--43
+68--45
+1--57
+68--48
+68--8
+51--1
+12--1
+1--24
+68--5
+61--68
+33--68
+68--54
+68--13
+55--1
+68--62
+info:     end player 0
+info:     start player 1
+29--1
+37--1
+7--68
+1--29
+68--33
+56--68
+45--1
+30--68
+1--49
+61--1
+46--68
+68--11
+19--68
+1--3
+24--1
+1--27
+info:     end player 1
+info:     start player 2
+21--1
+19--1
+52--68
+40--1
+68--28
+27--68
+68--51
+43--1
+54--68
+68--41
+68--21
+1--14
+1--67
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 84
+info: start round 85
+info:     start player 0
+68--45
+68--13
+1--57
+12--1
+68--43
+51--1
+68--54
+33--68
+61--68
+68--48
+55--1
+68--8
+68--5
+1--24
+68--62
+info:     end player 0
+info:     start player 1
+46--68
+56--68
+1--3
+1--27
+7--68
+30--68
+1--29
+61--1
+19--68
+68--11
+37--1
+45--1
+68--33
+24--1
+29--1
+1--49
+info:     end player 1
+info:     start player 2
+21--1
+1--14
+54--68
+27--68
+19--1
+68--21
+68--51
+68--41
+43--1
+40--1
+68--28
+52--68
+1--67
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 85
+info: start round 86
+info:     start player 0
+55--1
+68--45
+68--54
+61--68
+68--43
+51--1
+12--1
+33--68
+68--5
+68--62
+68--13
+1--57
+68--8
+1--24
+68--48
+info:     end player 0
+info:     start player 1
+45--1
+30--68
+68--11
+1--3
+1--27
+24--1
+1--29
+68--33
+46--68
+7--68
+19--68
+37--1
+56--68
+1--49
+29--1
+61--1
+info:     end player 1
+info:     start player 2
+68--41
+40--1
+68--28
+54--68
+1--67
+21--1
+68--51
+27--68
+68--21
+52--68
+43--1
+1--14
+19--1
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 86
+info: start round 87
+info:     start player 0
+68--13
+61--68
+68--48
+68--5
+33--68
+12--1
+1--24
+68--8
+51--1
+68--62
+68--54
+68--43
+68--45
+1--57
+55--1
+info:     end player 0
+info:     start player 1
+1--3
+30--68
+68--33
+24--1
+7--68
+19--68
+56--68
+29--1
+1--27
+1--49
+1--29
+61--1
+37--1
+46--68
+45--1
+68--11
+info:     end player 1
+info:     start player 2
+1--14
+68--28
+19--1
+54--68
+68--21
+68--41
+21--1
+68--51
+52--68
+27--68
+1--67
+40--1
+43--1
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 87
+info: start round 88
+info:     start player 0
+68--8
+1--57
+33--68
+1--24
+68--13
+68--43
+68--45
+51--1
+68--5
+68--62
+12--1
+55--1
+68--48
+68--54
+61--68
+info:     end player 0
+info:     start player 1
+7--68
+24--1
+1--49
+68--33
+56--68
+30--68
+1--27
+46--68
+45--1
+1--29
+29--1
+1--3
+61--1
+37--1
+68--11
+19--68
+info:     end player 1
+info:     start player 2
+19--1
+43--1
+40--1
+1--67
+52--68
+1--14
+68--51
+54--68
+68--41
+68--21
+21--1
+68--28
+27--68
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 88
+info: start round 89
+info:     start player 0
+68--48
+51--1
+33--68
+68--5
+1--57
+68--45
+68--43
+68--13
+68--62
+68--8
+55--1
+1--24
+68--54
+61--68
+12--1
+info:     end player 0
+info:     start player 1
+46--68
+45--1
+29--1
+1--49
+1--27
+68--33
+30--68
+56--68
+19--68
+1--3
+61--1
+24--1
+7--68
+1--29
+37--1
+68--11
+info:     end player 1
+info:     start player 2
+68--28
+68--41
+43--1
+19--1
+1--14
+21--1
+68--21
+54--68
+68--51
+52--68
+27--68
+40--1
+1--67
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 89
+info: start round 90
+info:     start player 0
+68--5
+1--24
+61--68
+68--45
+33--68
+68--43
+51--1
+12--1
+68--54
+1--57
+68--8
+55--1
+68--62
+68--13
+68--48
+info:     end player 0
+info:     start player 1
+30--68
+24--1
+37--1
+1--3
+68--11
+7--68
+61--1
+56--68
+45--1
+1--49
+29--1
+1--29
+68--33
+19--68
+46--68
+1--27
+info:     end player 1
+info:     start player 2
+68--28
+27--68
+68--51
+40--1
+21--1
+1--14
+43--1
+19--1
+1--67
+68--41
+52--68
+68--21
+54--68
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 90
+info: start round 91
+info:     start player 0
+33--68
+68--48
+55--1
+51--1
+68--5
+61--68
+68--45
+1--24
+68--8
+1--57
+68--13
+68--54
+68--62
+12--1
+68--43
+info:     end player 0
+info:     start player 1
+30--68
+45--1
+24--1
+1--49
+68--11
+29--1
+19--68
+37--1
+56--68
+61--1
+1--29
+1--3
+7--68
+68--33
+46--68
+1--27
+info:     end player 1
+info:     start player 2
+19--1
+52--68
+1--14
+1--67
+68--41
+27--68
+68--51
+40--1
+43--1
+68--21
+54--68
+68--28
+21--1
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 91
+info: start round 92
+info:     start player 0
+61--68
+1--24
+68--8
+51--1
+55--1
+68--45
+33--68
+68--48
+68--62
+12--1
+68--43
+68--13
+68--5
+1--57
+68--54
+info:     end player 0
+info:     start player 1
+68--33
+68--11
+1--27
+46--68
+7--68
+1--3
+37--1
+24--1
+45--1
+19--68
+30--68
+1--49
+61--1
+56--68
+1--29
+29--1
+info:     end player 1
+info:     start player 2
+54--68
+1--14
+40--1
+68--41
+1--67
+68--28
+43--1
+19--1
+21--1
+68--21
+27--68
+52--68
+68--51
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 92
+info: start round 93
+info:     start player 0
+55--1
+68--43
+1--57
+12--1
+68--8
+68--54
+51--1
+33--68
+68--62
+61--68
+68--45
+68--5
+68--13
+1--24
+68--48
+info:     end player 0
+info:     start player 1
+68--11
+19--68
+7--68
+56--68
+30--68
+29--1
+61--1
+68--33
+37--1
+1--27
+1--29
+46--68
+1--49
+24--1
+45--1
+1--3
+info:     end player 1
+info:     start player 2
+68--51
+68--21
+1--67
+54--68
+68--28
+40--1
+52--68
+68--41
+19--1
+43--1
+21--1
+27--68
+1--14
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 93
+info: start round 94
+info:     start player 0
+1--24
+68--5
+68--43
+55--1
+68--13
+61--68
+68--8
+68--62
+1--57
+33--68
+68--48
+68--54
+12--1
+51--1
+68--45
+info:     end player 0
+info:     start player 1
+1--29
+1--27
+7--68
+68--33
+30--68
+45--1
+37--1
+56--68
+1--49
+24--1
+1--3
+29--1
+19--68
+61--1
+68--11
+46--68
+info:     end player 1
+info:     start player 2
+54--68
+1--14
+52--68
+19--1
+40--1
+68--51
+21--1
+68--28
+68--21
+1--67
+43--1
+27--68
+68--41
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 94
+info: start round 95
+info:     start player 0
+1--57
+68--13
+68--48
+55--1
+33--68
+68--43
+68--5
+68--45
+51--1
+1--24
+68--62
+68--54
+68--8
+61--68
+12--1
+info:     end player 0
+info:     start player 1
+68--33
+24--1
+1--3
+68--11
+61--1
+46--68
+37--1
+30--68
+29--1
+1--49
+1--29
+56--68
+45--1
+19--68
+1--27
+7--68
+info:     end player 1
+info:     start player 2
+1--67
+21--1
+52--68
+54--68
+68--28
+19--1
+43--1
+68--21
+27--68
+40--1
+68--41
+1--14
+68--51
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 95
+info: start round 96
+info:     start player 0
+1--57
+1--24
+61--68
+33--68
+51--1
+55--1
+68--43
+68--54
+12--1
+68--5
+68--62
+68--45
+68--13
+68--8
+68--48
+info:     end player 0
+info:     start player 1
+1--3
+1--27
+68--11
+1--29
+56--68
+30--68
+61--1
+24--1
+37--1
+29--1
+45--1
+46--68
+7--68
+19--68
+68--33
+1--49
+info:     end player 1
+info:     start player 2
+54--68
+19--1
+1--67
+21--1
+40--1
+68--41
+43--1
+68--28
+68--21
+1--14
+52--68
+27--68
+68--51
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 96
+info: start round 97
+info:     start player 0
+68--45
+1--24
+68--8
+68--62
+12--1
+68--5
+55--1
+1--57
+68--48
+51--1
+68--54
+33--68
+68--43
+61--68
+68--13
+info:     end player 0
+info:     start player 1
+46--68
+45--1
+19--68
+68--33
+7--68
+30--68
+1--49
+56--68
+68--11
+1--3
+29--1
+1--27
+1--29
+61--1
+24--1
+37--1
+info:     end player 1
+info:     start player 2
+68--51
+1--67
+52--68
+43--1
+19--1
+27--68
+54--68
+1--14
+68--21
+68--41
+40--1
+68--28
+21--1
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 97
+info: start round 98
+info:     start player 0
+68--54
+33--68
+61--68
+68--8
+68--13
+68--43
+1--24
+68--45
+68--5
+51--1
+55--1
+68--62
+68--48
+1--57
+12--1
+info:     end player 0
+info:     start player 1
+45--1
+1--27
+68--33
+24--1
+68--11
+30--68
+1--49
+46--68
+56--68
+7--68
+37--1
+29--1
+19--68
+1--29
+61--1
+1--3
+info:     end player 1
+info:     start player 2
+1--67
+54--68
+68--41
+68--21
+19--1
+21--1
+43--1
+40--1
+68--28
+1--14
+27--68
+52--68
+68--51
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 98
+info: start round 99
+info:     start player 0
+33--68
+1--24
+68--48
+55--1
+68--5
+61--68
+68--62
+12--1
+68--54
+68--13
+68--8
+1--57
+51--1
+68--43
+68--45
+info:     end player 0
+info:     start player 1
+30--68
+45--1
+19--68
+1--27
+61--1
+68--33
+56--68
+37--1
+1--29
+29--1
+7--68
+46--68
+24--1
+1--49
+68--11
+1--3
+info:     end player 1
+info:     start player 2
+52--68
+21--1
+68--21
+1--14
+54--68
+43--1
+40--1
+19--1
+68--28
+27--68
+68--41
+1--67
+68--51
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 99
+info: start round 100
+info:     start player 0
+12--1
+1--57
+68--54
+68--62
+33--68
+55--1
+1--24
+51--1
+61--68
+68--48
+68--8
+68--43
+68--45
+68--13
+68--5
+info:     end player 0
+info:     start player 1
+1--27
+1--49
+7--68
+56--68
+68--11
+1--29
+46--68
+1--3
+24--1
+29--1
+30--68
+37--1
+19--68
+61--1
+68--33
+45--1
+info:     end player 1
+info:     start player 2
+54--68
+27--68
+21--1
+52--68
+68--28
+1--14
+68--51
+68--21
+19--1
+40--1
+68--41
+1--67
+43--1
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 100
+info: start round 101
+info:     start player 0
+68--13
+68--62
+68--43
+61--68
+68--8
+55--1
+68--48
+51--1
+68--54
+68--45
+33--68
+12--1
+68--5
+1--24
+1--57
+info:     end player 0
+info:     start player 1
+19--68
+37--1
+1--3
+68--11
+1--49
+1--27
+46--68
+30--68
+7--68
+45--1
+24--1
+68--33
+56--68
+61--1
+29--1
+1--29
+info:     end player 1
+info:     start player 2
+43--1
+54--68
+68--21
+27--68
+21--1
+52--68
+19--1
+40--1
+68--41
+1--67
+68--51
+68--28
+1--14
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 101
+info: start round 102
+info:     start player 0
+1--24
+68--48
+68--45
+12--1
+68--43
+68--62
+51--1
+1--57
+61--68
+68--5
+68--54
+33--68
+68--8
+68--13
+55--1
+info:     end player 0
+info:     start player 1
+1--3
+68--11
+56--68
+1--29
+19--68
+30--68
+29--1
+1--49
+45--1
+24--1
+7--68
+1--27
+61--1
+37--1
+68--33
+46--68
+info:     end player 1
+info:     start player 2
+40--1
+43--1
+1--67
+21--1
+68--28
+27--68
+52--68
+19--1
+68--41
+68--21
+68--51
+54--68
+1--14
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 102
+info: start round 103
+info:     start player 0
+61--68
+55--1
+51--1
+68--54
+1--24
+68--5
+68--43
+68--48
+68--45
+33--68
+12--1
+68--13
+1--57
+68--62
+68--8
+info:     end player 0
+info:     start player 1
+1--49
+29--1
+19--68
+46--68
+68--11
+68--33
+1--27
+61--1
+56--68
+37--1
+45--1
+1--3
+1--29
+24--1
+30--68
+7--68
+info:     end player 1
+info:     start player 2
+68--51
+68--28
+40--1
+54--68
+43--1
+52--68
+68--21
+19--1
+21--1
+68--41
+1--67
+27--68
+1--14
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 103
+info: start round 104
+info:     start player 0
+68--62
+51--1
+55--1
+12--1
+68--45
+68--5
+68--43
+1--57
+1--24
+68--8
+68--54
+68--48
+68--13
+33--68
+61--68
+info:     end player 0
+info:     start player 1
+45--1
+68--33
+46--68
+29--1
+1--49
+1--27
+30--68
+61--1
+24--1
+1--3
+37--1
+7--68
+68--11
+1--29
+56--68
+19--68
+info:     end player 1
+info:     start player 2
+21--1
+54--68
+52--68
+1--14
+27--68
+68--41
+40--1
+68--28
+68--21
+19--1
+1--67
+43--1
+68--51
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 104
+info: start round 105
+info:     start player 0
+68--5
+68--48
+68--43
+68--45
+55--1
+1--57
+68--62
+68--54
+61--68
+51--1
+68--8
+12--1
+68--13
+33--68
+1--24
+info:     end player 0
+info:     start player 1
+7--68
+24--1
+68--11
+1--29
+45--1
+37--1
+56--68
+29--1
+30--68
+68--33
+46--68
+1--3
+19--68
+61--1
+1--27
+1--49
+info:     end player 1
+info:     start player 2
+1--67
+1--14
+68--21
+68--28
+40--1
+54--68
+21--1
+68--41
+52--68
+27--68
+19--1
+68--51
+43--1
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 105
+info: start round 106
+info:     start player 0
+51--1
+68--45
+68--13
+68--62
+12--1
+55--1
+68--5
+33--68
+68--48
+68--8
+1--57
+68--54
+68--43
+1--24
+61--68
+info:     end player 0
+info:     start player 1
+45--1
+30--68
+61--1
+24--1
+1--49
+29--1
+46--68
+1--27
+19--68
+68--11
+37--1
+1--3
+68--33
+7--68
+1--29
+56--68
+info:     end player 1
+info:     start player 2
+52--68
+1--14
+68--28
+1--67
+54--68
+43--1
+68--51
+19--1
+68--41
+21--1
+27--68
+68--21
+40--1
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 106
+info: start round 107
+info:     start player 0
+12--1
+68--62
+61--68
+68--45
+1--24
+51--1
+68--13
+68--5
+68--54
+1--57
+68--43
+55--1
+68--8
+68--48
+33--68
+info:     end player 0
+info:     start player 1
+7--68
+1--29
+29--1
+37--1
+68--11
+46--68
+19--68
+45--1
+1--27
+61--1
+1--3
+68--33
+30--68
+56--68
+24--1
+1--49
+info:     end player 1
+info:     start player 2
+19--1
+68--41
+68--28
+1--14
+40--1
+54--68
+27--68
+68--51
+1--67
+21--1
+52--68
+43--1
+68--21
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 107
+info: start round 108
+info:     start player 0
+68--45
+33--68
+55--1
+68--13
+68--48
+68--62
+68--5
+68--54
+68--8
+1--24
+61--68
+12--1
+68--43
+51--1
+1--57
+info:     end player 0
+info:     start player 1
+46--68
+30--68
+68--11
+29--1
+1--3
+45--1
+56--68
+24--1
+1--29
+1--49
+1--27
+68--33
+37--1
+7--68
+19--68
+61--1
+info:     end player 1
+info:     start player 2
+1--67
+68--28
+43--1
+68--51
+52--68
+54--68
+68--21
+1--14
+68--41
+40--1
+19--1
+27--68
+21--1
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 108
+info: start round 109
+info:     start player 0
+51--1
+1--57
+68--48
+68--5
+68--54
+68--8
+61--68
+68--13
+55--1
+68--62
+68--45
+33--68
+1--24
+12--1
+68--43
+info:     end player 0
+info:     start player 1
+61--1
+30--68
+1--27
+7--68
+1--3
+68--33
+56--68
+68--11
+46--68
+24--1
+1--49
+29--1
+19--68
+1--29
+37--1
+45--1
+info:     end player 1
+info:     start player 2
+43--1
+40--1
+27--68
+68--21
+19--1
+21--1
+52--68
+54--68
+1--67
+1--14
+68--51
+68--41
+68--28
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 109
+info: start round 110
+info:     start player 0
+55--1
+68--45
+68--5
+1--57
+68--48
+68--13
+61--68
+12--1
+68--43
+51--1
+68--62
+1--24
+68--8
+33--68
+68--54
+info:     end player 0
+info:     start player 1
+45--1
+46--68
+7--68
+1--29
+1--3
+1--27
+68--11
+19--68
+61--1
+68--33
+24--1
+56--68
+29--1
+1--49
+37--1
+30--68
+info:     end player 1
+info:     start player 2
+1--14
+68--41
+27--68
+68--51
+43--1
+68--21
+1--67
+52--68
+21--1
+40--1
+54--68
+68--28
+19--1
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 110
+info: start round 111
+info:     start player 0
+51--1
+68--62
+61--68
+68--13
+68--45
+68--48
+1--24
+1--57
+12--1
+68--8
+68--5
+68--43
+55--1
+33--68
+68--54
+info:     end player 0
+info:     start player 1
+46--68
+7--68
+61--1
+37--1
+19--68
+24--1
+1--49
+29--1
+1--29
+30--68
+68--11
+56--68
+45--1
+1--27
+68--33
+1--3
+info:     end player 1
+info:     start player 2
+68--41
+1--14
+68--51
+52--68
+40--1
+21--1
+1--67
+19--1
+68--28
+68--21
+27--68
+54--68
+43--1
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 111
+info: start round 112
+info:     start player 0
+51--1
+68--54
+68--62
+61--68
+68--45
+68--48
+68--13
+55--1
+68--43
+33--68
+68--8
+1--57
+68--5
+12--1
+1--24
+info:     end player 0
+info:     start player 1
+30--68
+7--68
+37--1
+1--29
+1--3
+61--1
+68--33
+19--68
+45--1
+56--68
+68--11
+24--1
+1--49
+29--1
+1--27
+46--68
+info:     end player 1
+info:     start player 2
+40--1
+19--1
+68--51
+1--14
+68--41
+27--68
+21--1
+54--68
+1--67
+68--21
+52--68
+43--1
+68--28
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 112
+info: start round 113
+info:     start player 0
+68--5
+68--8
+55--1
+1--57
+51--1
+1--24
+12--1
+68--62
+68--45
+68--48
+33--68
+68--13
+68--54
+68--43
+61--68
+info:     end player 0
+info:     start player 1
+1--3
+46--68
+1--29
+68--11
+37--1
+68--33
+19--68
+30--68
+29--1
+24--1
+45--1
+7--68
+56--68
+1--27
+61--1
+1--49
+info:     end player 1
+info:     start player 2
+1--14
+40--1
+43--1
+54--68
+1--67
+21--1
+52--68
+19--1
+68--41
+68--28
+27--68
+68--51
+68--21
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 113
+info: start round 114
+info:     start player 0
+68--5
+1--24
+68--8
+33--68
+68--62
+68--48
+12--1
+68--54
+68--13
+1--57
+51--1
+55--1
+68--43
+61--68
+68--45
+info:     end player 0
+info:     start player 1
+1--27
+7--68
+1--29
+29--1
+68--11
+37--1
+68--33
+56--68
+19--68
+24--1
+61--1
+1--49
+46--68
+1--3
+30--68
+45--1
+info:     end player 1
+info:     start player 2
+54--68
+40--1
+68--21
+52--68
+68--41
+27--68
+21--1
+1--14
+1--67
+43--1
+19--1
+68--51
+68--28
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 114
+info: start round 115
+info:     start player 0
+68--54
+1--57
+12--1
+68--13
+68--43
+1--24
+68--8
+68--5
+33--68
+55--1
+68--45
+61--68
+51--1
+68--62
+68--48
+info:     end player 0
+info:     start player 1
+45--1
+29--1
+1--27
+37--1
+7--68
+46--68
+61--1
+24--1
+1--29
+68--11
+56--68
+19--68
+1--3
+1--49
+68--33
+30--68
+info:     end player 1
+info:     start player 2
+68--28
+68--51
+27--68
+68--21
+40--1
+21--1
+68--41
+52--68
+1--14
+1--67
+54--68
+19--1
+43--1
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 115
+info: start round 116
+info:     start player 0
+68--45
+1--57
+33--68
+55--1
+68--5
+51--1
+12--1
+68--54
+68--43
+68--13
+68--62
+68--8
+61--68
+68--48
+1--24
+info:     end player 0
+info:     start player 1
+7--68
+61--1
+1--27
+19--68
+1--29
+56--68
+68--11
+29--1
+1--49
+30--68
+46--68
+37--1
+45--1
+24--1
+1--3
+68--33
+info:     end player 1
+info:     start player 2
+52--68
+68--21
+1--14
+68--28
+19--1
+68--51
+21--1
+43--1
+54--68
+40--1
+27--68
+1--67
+68--41
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 116
+info: start round 117
+info:     start player 0
+51--1
+55--1
+33--68
+68--54
+68--45
+12--1
+68--5
+1--57
+68--13
+61--68
+68--43
+68--8
+68--48
+68--62
+1--24
+info:     end player 0
+info:     start player 1
+1--3
+1--27
+68--11
+1--29
+45--1
+46--68
+7--68
+1--49
+30--68
+56--68
+68--33
+37--1
+19--68
+61--1
+24--1
+29--1
+info:     end player 1
+info:     start player 2
+19--1
+68--41
+54--68
+27--68
+21--1
+68--21
+1--14
+68--28
+52--68
+1--67
+43--1
+40--1
+68--51
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 117
+info: start round 118
+info:     start player 0
+51--1
+68--48
+12--1
+1--24
+68--13
+68--62
+55--1
+68--45
+33--68
+68--54
+1--57
+61--68
+68--5
+68--8
+68--43
+info:     end player 0
+info:     start player 1
+56--68
+61--1
+1--27
+37--1
+30--68
+46--68
+45--1
+68--11
+29--1
+1--3
+24--1
+7--68
+1--29
+19--68
+1--49
+68--33
+info:     end player 1
+info:     start player 2
+68--51
+1--14
+1--67
+27--68
+52--68
+40--1
+68--21
+43--1
+68--28
+21--1
+54--68
+68--41
+19--1
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 118
+info: start round 119
+info:     start player 0
+68--43
+68--48
+51--1
+1--24
+1--57
+68--13
+68--54
+12--1
+33--68
+68--62
+68--5
+61--68
+55--1
+68--8
+68--45
+info:     end player 0
+info:     start player 1
+68--33
+29--1
+56--68
+24--1
+1--27
+37--1
+7--68
+46--68
+68--11
+1--49
+61--1
+30--68
+1--3
+19--68
+45--1
+1--29
+info:     end player 1
+info:     start player 2
+27--68
+40--1
+68--28
+1--67
+54--68
+68--51
+52--68
+43--1
+21--1
+19--1
+1--14
+68--41
+68--21
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 119
+info: start round 120
+info:     start player 0
+68--8
+68--13
+1--57
+68--43
+55--1
+1--24
+68--45
+51--1
+68--5
+61--68
+68--54
+68--62
+68--48
+12--1
+33--68
+info:     end player 0
+info:     start player 1
+19--68
+68--11
+1--29
+56--68
+1--3
+7--68
+30--68
+68--33
+24--1
+37--1
+45--1
+1--27
+46--68
+61--1
+29--1
+1--49
+info:     end player 1
+info:     start player 2
+27--68
+68--21
+54--68
+52--68
+1--67
+68--51
+68--41
+43--1
+1--14
+68--28
+19--1
+40--1
+21--1
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 120
+info: start round 121
+info:     start player 0
+68--5
+68--8
+55--1
+68--45
+68--43
+68--13
+1--24
+61--68
+68--48
+68--54
+12--1
+33--68
+51--1
+1--57
+68--62
+info:     end player 0
+info:     start player 1
+30--68
+19--68
+45--1
+1--49
+1--3
+37--1
+68--33
+24--1
+56--68
+29--1
+68--11
+7--68
+46--68
+1--29
+61--1
+1--27
+info:     end player 1
+info:     start player 2
+68--41
+68--51
+68--28
+54--68
+68--21
+43--1
+21--1
+52--68
+40--1
+19--1
+27--68
+1--67
+1--14
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 121
+info: start round 122
+info:     start player 0
+68--45
+1--57
+68--62
+61--68
+68--48
+68--8
+1--24
+51--1
+55--1
+68--13
+12--1
+33--68
+68--54
+68--43
+68--5
+info:     end player 0
+info:     start player 1
+68--33
+19--68
+1--49
+45--1
+29--1
+61--1
+30--68
+1--3
+24--1
+1--27
+7--68
+56--68
+68--11
+37--1
+1--29
+46--68
+info:     end player 1
+info:     start player 2
+68--41
+68--28
+1--67
+1--14
+52--68
+68--51
+27--68
+43--1
+40--1
+21--1
+54--68
+19--1
+68--21
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 122
+info: start round 123
+info:     start player 0
+68--48
+61--68
+55--1
+68--13
+33--68
+51--1
+1--24
+12--1
+68--54
+1--57
+68--62
+68--5
+68--45
+68--8
+68--43
+info:     end player 0
+info:     start player 1
+68--33
+30--68
+1--29
+56--68
+19--68
+1--3
+29--1
+7--68
+45--1
+61--1
+46--68
+1--27
+68--11
+37--1
+24--1
+1--49
+info:     end player 1
+info:     start player 2
+68--21
+54--68
+21--1
+1--14
+1--67
+27--68
+19--1
+68--41
+40--1
+68--51
+52--68
+68--28
+43--1
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 123
+info: start round 124
+info:     start player 0
+1--24
+61--68
+68--45
+68--5
+51--1
+68--43
+12--1
+68--54
+68--48
+68--62
+33--68
+68--8
+68--13
+1--57
+55--1
+info:     end player 0
+info:     start player 1
+29--1
+68--33
+37--1
+56--68
+1--49
+30--68
+24--1
+68--11
+7--68
+1--3
+1--27
+61--1
+19--68
+1--29
+46--68
+45--1
+info:     end player 1
+info:     start player 2
+68--41
+68--28
+21--1
+1--14
+1--67
+54--68
+68--51
+68--21
+27--68
+43--1
+19--1
+40--1
+52--68
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 124
+info: start round 125
+info:     start player 0
+68--48
+61--68
+33--68
+51--1
+68--62
+12--1
+1--24
+68--13
+68--54
+68--8
+68--43
+68--5
+55--1
+1--57
+68--45
+info:     end player 0
+info:     start player 1
+68--33
+19--68
+46--68
+61--1
+1--3
+1--29
+45--1
+29--1
+68--11
+24--1
+30--68
+1--27
+1--49
+56--68
+7--68
+37--1
+info:     end player 1
+info:     start player 2
+68--41
+68--28
+68--51
+21--1
+27--68
+54--68
+1--67
+40--1
+68--21
+1--14
+52--68
+43--1
+19--1
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 125
+info: start round 126
+info:     start player 0
+1--57
+68--5
+68--45
+68--62
+51--1
+33--68
+68--43
+68--54
+61--68
+68--8
+12--1
+68--48
+68--13
+55--1
+1--24
+info:     end player 0
+info:     start player 1
+1--49
+29--1
+61--1
+7--68
+45--1
+46--68
+1--3
+1--29
+56--68
+30--68
+1--27
+19--68
+68--11
+37--1
+24--1
+68--33
+info:     end player 1
+info:     start player 2
+68--21
+19--1
+43--1
+68--41
+40--1
+27--68
+52--68
+54--68
+68--28
+1--67
+68--51
+21--1
+1--14
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 126
+info: start round 127
+info:     start player 0
+61--68
+68--43
+33--68
+68--62
+55--1
+68--13
+68--5
+68--8
+51--1
+68--45
+1--57
+12--1
+68--54
+68--48
+1--24
+info:     end player 0
+info:     start player 1
+1--3
+7--68
+68--33
+1--49
+45--1
+61--1
+68--11
+24--1
+19--68
+29--1
+1--27
+30--68
+1--29
+46--68
+37--1
+56--68
+info:     end player 1
+info:     start player 2
+54--68
+68--41
+19--1
+1--14
+68--51
+52--68
+68--28
+1--67
+43--1
+27--68
+40--1
+21--1
+68--21
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 127
+info: start round 128
+info:     start player 0
+68--48
+51--1
+12--1
+68--13
+1--24
+68--62
+33--68
+68--5
+68--43
+68--54
+61--68
+55--1
+68--8
+68--45
+1--57
+info:     end player 0
+info:     start player 1
+19--68
+68--11
+46--68
+1--27
+61--1
+68--33
+1--3
+29--1
+1--29
+1--49
+30--68
+37--1
+56--68
+24--1
+45--1
+7--68
+info:     end player 1
+info:     start player 2
+68--28
+54--68
+19--1
+52--68
+27--68
+68--41
+1--67
+21--1
+43--1
+68--21
+1--14
+68--51
+40--1
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 128
+info: start round 129
+info:     start player 0
+12--1
+1--57
+68--43
+68--62
+68--8
+68--5
+55--1
+68--45
+68--13
+33--68
+1--24
+68--48
+51--1
+68--54
+61--68
+info:     end player 0
+info:     start player 1
+46--68
+30--68
+1--3
+68--11
+45--1
+61--1
+56--68
+68--33
+1--27
+1--49
+29--1
+19--68
+1--29
+7--68
+24--1
+37--1
+info:     end player 1
+info:     start player 2
+1--14
+40--1
+52--68
+1--67
+68--21
+68--28
+21--1
+27--68
+19--1
+68--51
+68--41
+54--68
+43--1
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 129
+info: start round 130
+info:     start player 0
+68--13
+33--68
+68--8
+68--43
+68--54
+51--1
+68--62
+61--68
+68--45
+1--24
+68--48
+1--57
+12--1
+68--5
+55--1
+info:     end player 0
+info:     start player 1
+19--68
+1--3
+30--68
+68--11
+7--68
+61--1
+56--68
+29--1
+68--33
+1--49
+1--27
+1--29
+37--1
+46--68
+45--1
+24--1
+info:     end player 1
+info:     start player 2
+40--1
+27--68
+1--67
+68--51
+68--41
+43--1
+68--21
+19--1
+52--68
+68--28
+21--1
+54--68
+1--14
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 130
+info: start round 131
+info:     start player 0
+51--1
+68--5
+68--45
+33--68
+68--13
+61--68
+68--43
+68--48
+1--24
+55--1
+1--57
+68--8
+68--62
+68--54
+12--1
+info:     end player 0
+info:     start player 1
+68--33
+24--1
+30--68
+56--68
+19--68
+29--1
+7--68
+61--1
+1--29
+68--11
+1--3
+45--1
+37--1
+46--68
+1--49
+1--27
+info:     end player 1
+info:     start player 2
+43--1
+27--68
+1--14
+1--67
+68--21
+54--68
+68--51
+52--68
+68--28
+19--1
+40--1
+68--41
+21--1
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 131
+info: start round 132
+info:     start player 0
+68--54
+68--62
+51--1
+68--5
+1--57
+55--1
+12--1
+68--8
+68--13
+68--45
+68--43
+1--24
+33--68
+68--48
+61--68
+info:     end player 0
+info:     start player 1
+1--3
+61--1
+1--27
+30--68
+37--1
+19--68
+68--11
+1--29
+7--68
+68--33
+56--68
+29--1
+46--68
+45--1
+1--49
+24--1
+info:     end player 1
+info:     start player 2
+1--14
+43--1
+68--21
+68--41
+68--51
+19--1
+52--68
+21--1
+54--68
+27--68
+68--28
+1--67
+40--1
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 132
+info: start round 133
+info:     start player 0
+68--62
+12--1
+68--45
+68--5
+61--68
+68--54
+1--24
+33--68
+68--48
+1--57
+55--1
+68--43
+68--13
+51--1
+68--8
+info:     end player 0
+info:     start player 1
+56--68
+1--3
+19--68
+1--49
+29--1
+68--33
+45--1
+1--27
+7--68
+24--1
+37--1
+1--29
+68--11
+46--68
+30--68
+61--1
+info:     end player 1
+info:     start player 2
+40--1
+68--41
+52--68
+68--21
+1--14
+68--28
+21--1
+43--1
+19--1
+1--67
+68--51
+54--68
+27--68
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 133
+info: start round 134
+info:     start player 0
+12--1
+68--5
+68--48
+55--1
+68--43
+33--68
+68--54
+68--13
+61--68
+1--57
+68--45
+68--62
+1--24
+51--1
+68--8
+info:     end player 0
+info:     start player 1
+1--49
+30--68
+37--1
+46--68
+1--3
+1--27
+45--1
+1--29
+68--33
+56--68
+24--1
+68--11
+29--1
+19--68
+61--1
+7--68
+info:     end player 1
+info:     start player 2
+68--21
+54--68
+68--28
+43--1
+52--68
+1--14
+19--1
+27--68
+1--67
+68--41
+40--1
+68--51
+21--1
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 134
+info: start round 135
+info:     start player 0
+68--54
+12--1
+51--1
+55--1
+68--43
+1--57
+68--5
+68--48
+68--13
+1--24
+33--68
+68--62
+68--45
+68--8
+61--68
+info:     end player 0
+info:     start player 1
+19--68
+1--27
+45--1
+68--33
+61--1
+30--68
+1--29
+46--68
+56--68
+7--68
+37--1
+29--1
+24--1
+68--11
+1--3
+1--49
+info:     end player 1
+info:     start player 2
+68--41
+54--68
+21--1
+43--1
+68--28
+27--68
+40--1
+1--67
+68--51
+19--1
+52--68
+68--21
+1--14
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 135
+info: start round 136
+info:     start player 0
+68--45
+51--1
+68--5
+68--62
+1--57
+68--48
+68--54
+12--1
+55--1
+68--8
+68--13
+68--43
+33--68
+61--68
+1--24
+info:     end player 0
+info:     start player 1
+30--68
+68--33
+24--1
+68--11
+61--1
+19--68
+1--3
+1--27
+7--68
+1--49
+56--68
+1--29
+46--68
+37--1
+29--1
+45--1
+info:     end player 1
+info:     start player 2
+68--51
+43--1
+68--28
+21--1
+27--68
+54--68
+68--21
+68--41
+1--14
+40--1
+19--1
+1--67
+52--68
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 136
+info: start round 137
+info:     start player 0
+68--62
+61--68
+33--68
+68--13
+68--8
+1--57
+68--45
+1--24
+68--43
+12--1
+55--1
+68--54
+68--5
+51--1
+68--48
+info:     end player 0
+info:     start player 1
+24--1
+30--68
+1--27
+1--3
+1--49
+7--68
+56--68
+45--1
+61--1
+68--33
+29--1
+19--68
+46--68
+68--11
+37--1
+1--29
+info:     end player 1
+info:     start player 2
+40--1
+43--1
+1--14
+27--68
+68--28
+21--1
+68--51
+19--1
+68--21
+1--67
+52--68
+54--68
+68--41
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 137
+info: start round 138
+info:     start player 0
+1--57
+68--5
+55--1
+68--43
+1--24
+68--13
+68--48
+51--1
+33--68
+68--54
+68--8
+68--62
+12--1
+68--45
+61--68
+info:     end player 0
+info:     start player 1
+19--68
+1--49
+68--33
+68--11
+29--1
+30--68
+56--68
+37--1
+61--1
+1--3
+45--1
+1--27
+46--68
+24--1
+7--68
+1--29
+info:     end player 1
+info:     start player 2
+40--1
+27--68
+21--1
+19--1
+54--68
+43--1
+68--21
+1--14
+1--67
+68--41
+68--51
+68--28
+52--68
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 138
+info: start round 139
+info:     start player 0
+68--8
+68--54
+68--48
+51--1
+68--43
+61--68
+68--62
+68--45
+1--57
+1--24
+55--1
+68--5
+68--13
+12--1
+33--68
+info:     end player 0
+info:     start player 1
+24--1
+19--68
+1--49
+68--11
+68--33
+1--3
+45--1
+30--68
+56--68
+46--68
+29--1
+37--1
+1--29
+7--68
+61--1
+1--27
+info:     end player 1
+info:     start player 2
+43--1
+1--14
+68--41
+21--1
+68--51
+68--28
+1--67
+52--68
+40--1
+54--68
+68--21
+19--1
+27--68
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 139
+info: start round 140
+info:     start player 0
+12--1
+68--43
+68--48
+1--57
+68--45
+51--1
+68--54
+55--1
+33--68
+1--24
+68--8
+68--5
+61--68
+68--13
+68--62
+info:     end player 0
+info:     start player 1
+1--29
+1--27
+19--68
+68--11
+68--33
+30--68
+45--1
+37--1
+7--68
+56--68
+46--68
+29--1
+1--3
+24--1
+61--1
+1--49
+info:     end player 1
+info:     start player 2
+40--1
+54--68
+1--14
+68--51
+27--68
+19--1
+21--1
+68--41
+1--67
+52--68
+68--21
+68--28
+43--1
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 140
+info: start round 141
+info:     start player 0
+68--13
+68--62
+68--5
+1--24
+61--68
+68--45
+1--57
+12--1
+68--54
+68--8
+33--68
+68--48
+51--1
+68--43
+55--1
+info:     end player 0
+info:     start player 1
+68--33
+19--68
+1--3
+37--1
+68--11
+61--1
+24--1
+7--68
+30--68
+56--68
+1--49
+1--29
+1--27
+45--1
+46--68
+29--1
+info:     end player 1
+info:     start player 2
+68--41
+1--14
+68--51
+52--68
+68--21
+27--68
+43--1
+19--1
+68--28
+54--68
+21--1
+1--67
+40--1
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 141
+info: start round 142
+info:     start player 0
+68--54
+55--1
+1--57
+68--13
+68--62
+33--68
+68--43
+12--1
+68--45
+61--68
+68--8
+68--5
+51--1
+1--24
+68--48
+info:     end player 0
+info:     start player 1
+37--1
+1--49
+1--3
+56--68
+61--1
+45--1
+1--29
+24--1
+68--33
+30--68
+7--68
+68--11
+29--1
+19--68
+1--27
+46--68
+info:     end player 1
+info:     start player 2
+21--1
+1--14
+68--28
+52--68
+68--51
+40--1
+43--1
+68--21
+54--68
+27--68
+68--41
+1--67
+19--1
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 142
+info: start round 143
+info:     start player 0
+1--57
+68--54
+12--1
+68--43
+68--5
+61--68
+68--13
+68--48
+68--8
+33--68
+55--1
+1--24
+51--1
+68--62
+68--45
+info:     end player 0
+info:     start player 1
+19--68
+56--68
+68--11
+1--49
+1--29
+61--1
+45--1
+1--3
+37--1
+24--1
+46--68
+29--1
+7--68
+1--27
+68--33
+30--68
+info:     end player 1
+info:     start player 2
+19--1
+68--51
+68--41
+43--1
+68--21
+52--68
+27--68
+21--1
+1--67
+68--28
+40--1
+54--68
+1--14
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 143
+info: start round 144
+info:     start player 0
+55--1
+68--43
+1--24
+68--13
+68--62
+61--68
+68--54
+12--1
+51--1
+68--5
+68--8
+68--48
+68--45
+1--57
+33--68
+info:     end player 0
+info:     start player 1
+46--68
+45--1
+29--1
+37--1
+7--68
+56--68
+1--3
+1--27
+68--11
+61--1
+68--33
+24--1
+30--68
+19--68
+1--29
+1--49
+info:     end player 1
+info:     start player 2
+68--28
+27--68
+19--1
+54--68
+68--51
+68--21
+21--1
+1--67
+52--68
+40--1
+1--14
+68--41
+43--1
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 144
+info: start round 145
+info:     start player 0
+68--45
+68--62
+51--1
+1--57
+68--5
+68--13
+68--8
+1--24
+12--1
+61--68
+55--1
+68--48
+68--54
+68--43
+33--68
+info:     end player 0
+info:     start player 1
+29--1
+1--3
+68--11
+1--27
+68--33
+37--1
+1--49
+45--1
+24--1
+46--68
+19--68
+56--68
+30--68
+7--68
+61--1
+1--29
+info:     end player 1
+info:     start player 2
+68--51
+43--1
+68--41
+1--14
+19--1
+27--68
+21--1
+68--21
+52--68
+54--68
+68--28
+1--67
+40--1
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 145
+info: start round 146
+info:     start player 0
+33--68
+1--24
+61--68
+55--1
+1--57
+68--54
+68--13
+12--1
+51--1
+68--48
+68--45
+68--43
+68--62
+68--8
+68--5
+info:     end player 0
+info:     start player 1
+46--68
+1--27
+24--1
+30--68
+68--11
+68--33
+29--1
+45--1
+19--68
+61--1
+56--68
+37--1
+1--49
+7--68
+1--29
+1--3
+info:     end player 1
+info:     start player 2
+52--68
+68--41
+68--21
+19--1
+1--14
+27--68
+40--1
+1--67
+43--1
+54--68
+68--51
+21--1
+68--28
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 146
+info: start round 147
+info:     start player 0
+68--54
+51--1
+68--45
+33--68
+12--1
+68--43
+68--62
+55--1
+68--48
+68--5
+1--57
+1--24
+68--8
+61--68
+68--13
+info:     end player 0
+info:     start player 1
+61--1
+19--68
+24--1
+46--68
+68--33
+1--29
+1--3
+56--68
+7--68
+29--1
+1--49
+37--1
+1--27
+30--68
+45--1
+68--11
+info:     end player 1
+info:     start player 2
+68--28
+1--67
+1--14
+40--1
+52--68
+68--51
+68--21
+43--1
+19--1
+21--1
+27--68
+54--68
+68--41
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 147
+info: start round 148
+info:     start player 0
+1--57
+61--68
+51--1
+68--54
+68--43
+68--5
+68--13
+68--8
+12--1
+68--62
+68--45
+33--68
+68--48
+1--24
+55--1
+info:     end player 0
+info:     start player 1
+45--1
+24--1
+1--27
+37--1
+7--68
+68--11
+46--68
+68--33
+19--68
+1--29
+1--3
+61--1
+29--1
+30--68
+56--68
+1--49
+info:     end player 1
+info:     start player 2
+54--68
+1--14
+1--67
+21--1
+68--21
+43--1
+68--28
+52--68
+68--41
+40--1
+19--1
+68--51
+27--68
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 148
+info: start round 149
+info:     start player 0
+68--45
+68--13
+55--1
+68--5
+68--48
+61--68
+1--57
+68--54
+1--24
+33--68
+51--1
+12--1
+68--43
+68--8
+68--62
+info:     end player 0
+info:     start player 1
+7--68
+68--11
+1--29
+19--68
+30--68
+37--1
+61--1
+46--68
+1--49
+56--68
+45--1
+29--1
+68--33
+1--27
+1--3
+24--1
+info:     end player 1
+info:     start player 2
+52--68
+1--14
+19--1
+43--1
+40--1
+1--67
+68--51
+21--1
+54--68
+68--21
+27--68
+68--28
+68--41
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 149
+info: start round 150
+info:     start player 0
+68--43
+51--1
+12--1
+1--24
+68--48
+1--57
+68--13
+33--68
+68--45
+68--62
+68--54
+68--5
+68--8
+61--68
+55--1
+info:     end player 0
+info:     start player 1
+46--68
+1--27
+1--49
+1--29
+45--1
+7--68
+68--11
+1--3
+61--1
+37--1
+19--68
+29--1
+56--68
+68--33
+30--68
+24--1
+info:     end player 1
+info:     start player 2
+68--51
+52--68
+19--1
+68--28
+40--1
+43--1
+54--68
+27--68
+68--41
+21--1
+68--21
+1--14
+1--67
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 150
+info: start round 151
+info:     start player 0
+68--45
+68--5
+68--54
+55--1
+1--57
+68--43
+68--8
+68--13
+68--62
+33--68
+1--24
+61--68
+51--1
+68--48
+12--1
+info:     end player 0
+info:     start player 1
+30--68
+29--1
+45--1
+1--29
+19--68
+1--49
+68--11
+1--3
+1--27
+56--68
+24--1
+7--68
+68--33
+61--1
+37--1
+46--68
+info:     end player 1
+info:     start player 2
+43--1
+54--68
+52--68
+1--14
+68--51
+68--28
+68--21
+27--68
+21--1
+40--1
+1--67
+19--1
+68--41
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 151
+info: start round 152
+info:     start player 0
+12--1
+68--5
+1--57
+68--45
+55--1
+68--48
+68--54
+68--13
+68--62
+68--43
+1--24
+61--68
+68--8
+51--1
+33--68
+info:     end player 0
+info:     start player 1
+45--1
+1--29
+19--68
+30--68
+68--11
+56--68
+1--3
+24--1
+7--68
+61--1
+1--49
+1--27
+37--1
+46--68
+29--1
+68--33
+info:     end player 1
+info:     start player 2
+27--68
+1--67
+54--68
+1--14
+19--1
+68--28
+21--1
+40--1
+68--51
+68--21
+52--68
+43--1
+68--41
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 152
+info: start round 153
+info:     start player 0
+68--43
+68--13
+68--8
+1--57
+68--5
+12--1
+51--1
+1--24
+33--68
+68--48
+68--45
+61--68
+68--54
+55--1
+68--62
+info:     end player 0
+info:     start player 1
+1--49
+24--1
+1--3
+37--1
+19--68
+68--33
+30--68
+7--68
+29--1
+1--29
+45--1
+61--1
+1--27
+56--68
+46--68
+68--11
+info:     end player 1
+info:     start player 2
+27--68
+1--14
+19--1
+68--51
+68--41
+68--28
+68--21
+21--1
+54--68
+40--1
+52--68
+43--1
+1--67
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 153
+info: start round 154
+info:     start player 0
+68--54
+61--68
+12--1
+55--1
+68--48
+68--43
+68--8
+68--45
+68--13
+68--5
+51--1
+1--24
+33--68
+1--57
+68--62
+info:     end player 0
+info:     start player 1
+1--29
+1--49
+61--1
+19--68
+45--1
+46--68
+68--33
+68--11
+24--1
+37--1
+1--27
+30--68
+29--1
+1--3
+56--68
+7--68
+info:     end player 1
+info:     start player 2
+27--68
+68--51
+68--41
+43--1
+68--28
+1--14
+19--1
+54--68
+1--67
+52--68
+68--21
+21--1
+40--1
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 154
+info: start round 155
+info:     start player 0
+68--43
+68--45
+1--24
+68--5
+68--62
+55--1
+61--68
+68--54
+68--8
+51--1
+33--68
+68--48
+1--57
+68--13
+12--1
+info:     end player 0
+info:     start player 1
+1--3
+1--29
+19--68
+7--68
+24--1
+46--68
+61--1
+37--1
+68--33
+68--11
+56--68
+29--1
+1--49
+30--68
+1--27
+45--1
+info:     end player 1
+info:     start player 2
+68--28
+1--14
+52--68
+40--1
+27--68
+68--51
+68--21
+54--68
+43--1
+19--1
+21--1
+1--67
+68--41
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 155
+info: start round 156
+info:     start player 0
+1--57
+12--1
+68--45
+68--54
+55--1
+68--62
+1--24
+61--68
+51--1
+68--13
+68--8
+68--5
+68--43
+68--48
+33--68
+info:     end player 0
+info:     start player 1
+45--1
+19--68
+1--49
+46--68
+56--68
+29--1
+24--1
+1--3
+7--68
+37--1
+68--33
+68--11
+1--29
+1--27
+61--1
+30--68
+info:     end player 1
+info:     start player 2
+21--1
+54--68
+1--14
+43--1
+68--51
+68--41
+68--28
+1--67
+40--1
+68--21
+19--1
+27--68
+52--68
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 156
+info: start round 157
+info:     start player 0
+68--62
+61--68
+1--57
+68--13
+68--5
+1--24
+51--1
+55--1
+68--8
+12--1
+68--43
+68--45
+68--54
+33--68
+68--48
+info:     end player 0
+info:     start player 1
+46--68
+30--68
+7--68
+1--27
+24--1
+19--68
+1--49
+68--11
+37--1
+68--33
+61--1
+56--68
+29--1
+1--3
+45--1
+1--29
+info:     end player 1
+info:     start player 2
+68--41
+54--68
+1--67
+68--21
+1--14
+40--1
+52--68
+68--51
+43--1
+27--68
+19--1
+68--28
+21--1
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 157
+info: start round 158
+info:     start player 0
+68--62
+61--68
+33--68
+68--48
+1--57
+1--24
+68--43
+12--1
+51--1
+68--8
+68--13
+68--54
+68--45
+55--1
+68--5
+info:     end player 0
+info:     start player 1
+45--1
+1--49
+29--1
+56--68
+68--11
+1--27
+1--29
+7--68
+37--1
+1--3
+19--68
+68--33
+30--68
+46--68
+24--1
+61--1
+info:     end player 1
+info:     start player 2
+43--1
+40--1
+54--68
+27--68
+1--14
+68--28
+52--68
+68--21
+19--1
+21--1
+1--67
+68--51
+68--41
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 158
+info: start round 159
+info:     start player 0
+68--5
+1--57
+68--54
+68--43
+1--24
+68--62
+51--1
+33--68
+12--1
+68--8
+68--45
+68--13
+61--68
+55--1
+68--48
+info:     end player 0
+info:     start player 1
+1--49
+30--68
+1--27
+29--1
+68--11
+19--68
+37--1
+56--68
+24--1
+61--1
+1--3
+7--68
+68--33
+1--29
+46--68
+45--1
+info:     end player 1
+info:     start player 2
+40--1
+1--14
+19--1
+54--68
+27--68
+68--21
+68--41
+52--68
+1--67
+68--28
+68--51
+43--1
+21--1
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 159
+info: start round 160
+info:     start player 0
+55--1
+68--43
+61--68
+68--48
+68--54
+1--57
+68--62
+12--1
+68--8
+33--68
+51--1
+68--45
+1--24
+68--13
+68--5
+info:     end player 0
+info:     start player 1
+19--68
+1--3
+1--49
+68--33
+45--1
+29--1
+61--1
+30--68
+68--11
+1--27
+7--68
+37--1
+56--68
+24--1
+46--68
+1--29
+info:     end player 1
+info:     start player 2
+43--1
+52--68
+68--28
+40--1
+68--21
+68--51
+54--68
+27--68
+21--1
+19--1
+1--67
+68--41
+1--14
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 160
+info: start round 161
+info:     start player 0
+68--54
+68--13
+68--43
+68--45
+12--1
+68--5
+68--48
+51--1
+61--68
+55--1
+68--62
+1--24
+33--68
+1--57
+68--8
+info:     end player 0
+info:     start player 1
+37--1
+1--27
+68--11
+24--1
+1--49
+68--33
+1--29
+30--68
+7--68
+45--1
+46--68
+61--1
+19--68
+56--68
+1--3
+29--1
+info:     end player 1
+info:     start player 2
+68--21
+21--1
+68--41
+68--28
+43--1
+68--51
+1--67
+27--68
+54--68
+1--14
+52--68
+40--1
+19--1
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 161
+info: start round 162
+info:     start player 0
+68--54
+68--48
+68--43
+12--1
+51--1
+1--24
+68--13
+1--57
+68--8
+68--45
+55--1
+33--68
+61--68
+68--62
+68--5
+info:     end player 0
+info:     start player 1
+61--1
+1--27
+46--68
+37--1
+68--11
+1--3
+1--49
+7--68
+1--29
+68--33
+45--1
+19--68
+56--68
+24--1
+29--1
+30--68
+info:     end player 1
+info:     start player 2
+52--68
+68--21
+68--41
+68--51
+21--1
+54--68
+19--1
+40--1
+68--28
+43--1
+27--68
+1--14
+1--67
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 162
+info: start round 163
+info:     start player 0
+1--24
+68--43
+68--45
+12--1
+68--48
+33--68
+68--62
+55--1
+68--5
+68--8
+61--68
+51--1
+1--57
+68--54
+68--13
+info:     end player 0
+info:     start player 1
+1--3
+1--29
+45--1
+24--1
+56--68
+19--68
+68--33
+30--68
+29--1
+68--11
+37--1
+61--1
+46--68
+1--49
+7--68
+1--27
+info:     end player 1
+info:     start player 2
+43--1
+68--41
+1--14
+52--68
+21--1
+68--51
+54--68
+27--68
+19--1
+40--1
+68--21
+1--67
+68--28
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 163
+info: start round 164
+info:     start player 0
+12--1
+68--5
+55--1
+68--8
+33--68
+68--45
+68--48
+68--43
+1--57
+68--62
+68--54
+51--1
+68--13
+1--24
+61--68
+info:     end player 0
+info:     start player 1
+19--68
+68--33
+37--1
+45--1
+1--3
+1--27
+30--68
+61--1
+7--68
+29--1
+1--29
+68--11
+46--68
+24--1
+1--49
+56--68
+info:     end player 1
+info:     start player 2
+1--67
+21--1
+68--21
+68--41
+40--1
+52--68
+68--28
+27--68
+19--1
+68--51
+43--1
+1--14
+54--68
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 164
+info: start round 165
+info:     start player 0
+68--45
+68--5
+68--48
+33--68
+12--1
+68--13
+1--24
+61--68
+55--1
+68--8
+51--1
+68--62
+1--57
+68--54
+68--43
+info:     end player 0
+info:     start player 1
+37--1
+1--3
+30--68
+1--49
+7--68
+19--68
+1--27
+1--29
+29--1
+68--11
+45--1
+24--1
+68--33
+61--1
+56--68
+46--68
+info:     end player 1
+info:     start player 2
+68--21
+19--1
+21--1
+54--68
+43--1
+68--41
+52--68
+68--28
+40--1
+1--14
+68--51
+27--68
+1--67
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 165
+info: start round 166
+info:     start player 0
+68--13
+68--62
+68--8
+1--24
+55--1
+68--43
+68--5
+1--57
+68--45
+68--48
+51--1
+61--68
+68--54
+33--68
+12--1
+info:     end player 0
+info:     start player 1
+29--1
+56--68
+1--27
+7--68
+37--1
+1--49
+24--1
+61--1
+19--68
+45--1
+1--29
+1--3
+68--33
+30--68
+46--68
+68--11
+info:     end player 1
+info:     start player 2
+27--68
+21--1
+68--21
+40--1
+68--28
+1--67
+1--14
+19--1
+68--41
+52--68
+54--68
+43--1
+68--51
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 166
+info: start round 167
+info:     start player 0
+68--45
+68--54
+1--24
+55--1
+68--62
+68--43
+68--13
+33--68
+68--5
+61--68
+68--48
+1--57
+12--1
+51--1
+68--8
+info:     end player 0
+info:     start player 1
+61--1
+29--1
+68--33
+37--1
+19--68
+30--68
+46--68
+68--11
+1--3
+45--1
+1--49
+1--29
+1--27
+24--1
+7--68
+56--68
+info:     end player 1
+info:     start player 2
+43--1
+68--51
+54--68
+40--1
+68--28
+21--1
+68--21
+27--68
+1--67
+19--1
+52--68
+1--14
+68--41
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 167
+info: start round 168
+info:     start player 0
+68--45
+68--62
+68--43
+68--54
+1--24
+68--5
+55--1
+51--1
+1--57
+68--13
+61--68
+33--68
+68--48
+68--8
+12--1
+info:     end player 0
+info:     start player 1
+1--3
+1--27
+37--1
+56--68
+19--68
+1--49
+1--29
+7--68
+29--1
+24--1
+30--68
+61--1
+68--33
+68--11
+45--1
+46--68
+info:     end player 1
+info:     start player 2
+68--41
+68--51
+40--1
+21--1
+43--1
+68--21
+1--14
+1--67
+52--68
+54--68
+19--1
+27--68
+68--28
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 168
+info: start round 169
+info:     start player 0
+12--1
+68--45
+68--8
+1--24
+55--1
+68--13
+68--54
+33--68
+68--43
+1--57
+68--5
+68--62
+51--1
+61--68
+68--48
+info:     end player 0
+info:     start player 1
+37--1
+30--68
+45--1
+1--3
+46--68
+7--68
+56--68
+1--49
+68--11
+1--27
+61--1
+19--68
+29--1
+68--33
+24--1
+1--29
+info:     end player 1
+info:     start player 2
+68--28
+19--1
+1--14
+68--21
+54--68
+43--1
+52--68
+68--51
+27--68
+1--67
+68--41
+21--1
+40--1
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 169
+info: start round 170
+info:     start player 0
+68--13
+1--24
+55--1
+68--62
+61--68
+51--1
+12--1
+68--43
+68--45
+1--57
+68--48
+33--68
+68--8
+68--54
+68--5
+info:     end player 0
+info:     start player 1
+1--49
+1--3
+68--33
+37--1
+61--1
+7--68
+46--68
+45--1
+1--27
+30--68
+1--29
+56--68
+24--1
+19--68
+29--1
+68--11
+info:     end player 1
+info:     start player 2
+1--67
+27--68
+43--1
+54--68
+1--14
+68--51
+68--41
+52--68
+40--1
+21--1
+68--21
+19--1
+68--28
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 170
+info: start round 171
+info:     start player 0
+68--5
+68--62
+55--1
+68--13
+1--57
+12--1
+1--24
+68--54
+33--68
+68--43
+61--68
+51--1
+68--8
+68--48
+68--45
+info:     end player 0
+info:     start player 1
+1--3
+19--68
+29--1
+30--68
+46--68
+1--29
+68--11
+61--1
+68--33
+24--1
+1--49
+7--68
+56--68
+37--1
+1--27
+45--1
+info:     end player 1
+info:     start player 2
+27--68
+43--1
+68--21
+68--41
+19--1
+21--1
+1--14
+40--1
+68--28
+52--68
+1--67
+68--51
+54--68
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 171
+info: start round 172
+info:     start player 0
+1--57
+68--8
+68--43
+1--24
+51--1
+55--1
+68--13
+68--54
+12--1
+61--68
+68--62
+68--5
+33--68
+68--45
+68--48
+info:     end player 0
+info:     start player 1
+68--11
+24--1
+56--68
+61--1
+19--68
+7--68
+37--1
+45--1
+1--27
+29--1
+1--3
+46--68
+68--33
+1--29
+1--49
+30--68
+info:     end player 1
+info:     start player 2
+1--14
+27--68
+21--1
+54--68
+19--1
+68--51
+40--1
+52--68
+1--67
+68--28
+68--21
+68--41
+43--1
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 172
+info: start round 173
+info:     start player 0
+68--13
+55--1
+68--43
+12--1
+68--54
+68--48
+68--45
+1--57
+68--62
+68--8
+1--24
+33--68
+51--1
+61--68
+68--5
+info:     end player 0
+info:     start player 1
+1--49
+61--1
+30--68
+68--11
+46--68
+45--1
+29--1
+24--1
+19--68
+56--68
+1--29
+7--68
+68--33
+1--3
+1--27
+37--1
+info:     end player 1
+info:     start player 2
+19--1
+1--67
+54--68
+1--14
+68--51
+68--28
+68--41
+43--1
+40--1
+68--21
+27--68
+52--68
+21--1
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 173
+info: start round 174
+info:     start player 0
+61--68
+68--48
+51--1
+68--13
+1--24
+1--57
+33--68
+68--62
+12--1
+68--54
+68--43
+55--1
+68--45
+68--8
+68--5
+info:     end player 0
+info:     start player 1
+68--33
+30--68
+1--27
+19--68
+29--1
+68--11
+56--68
+61--1
+24--1
+1--29
+1--3
+37--1
+45--1
+1--49
+7--68
+46--68
+info:     end player 1
+info:     start player 2
+40--1
+1--14
+68--51
+54--68
+68--41
+43--1
+68--28
+27--68
+68--21
+21--1
+52--68
+19--1
+1--67
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 174
+info: start round 175
+info:     start player 0
+33--68
+51--1
+1--24
+68--13
+12--1
+68--8
+68--62
+55--1
+68--54
+1--57
+68--5
+61--68
+68--43
+68--45
+68--48
+info:     end player 0
+info:     start player 1
+24--1
+45--1
+30--68
+1--27
+61--1
+29--1
+1--3
+68--33
+1--49
+68--11
+56--68
+37--1
+1--29
+7--68
+46--68
+19--68
+info:     end player 1
+info:     start player 2
+27--68
+43--1
+19--1
+54--68
+52--68
+1--14
+40--1
+68--41
+68--51
+1--67
+68--28
+68--21
+21--1
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 175
+info: start round 176
+info:     start player 0
+12--1
+68--54
+68--8
+68--13
+55--1
+51--1
+68--48
+68--5
+68--43
+68--62
+61--68
+1--24
+68--45
+1--57
+33--68
+info:     end player 0
+info:     start player 1
+30--68
+1--3
+19--68
+68--11
+61--1
+1--29
+45--1
+29--1
+1--49
+46--68
+37--1
+24--1
+68--33
+56--68
+7--68
+1--27
+info:     end player 1
+info:     start player 2
+27--68
+68--51
+68--28
+43--1
+19--1
+1--67
+40--1
+68--21
+68--41
+52--68
+1--14
+21--1
+54--68
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 176
+info: start round 177
+info:     start player 0
+68--48
+68--45
+68--43
+61--68
+1--24
+68--5
+68--13
+68--62
+68--8
+51--1
+33--68
+12--1
+1--57
+68--54
+55--1
+info:     end player 0
+info:     start player 1
+19--68
+29--1
+61--1
+1--29
+46--68
+68--33
+1--49
+30--68
+24--1
+7--68
+1--27
+56--68
+1--3
+37--1
+45--1
+68--11
+info:     end player 1
+info:     start player 2
+1--67
+40--1
+68--21
+21--1
+68--51
+43--1
+54--68
+52--68
+27--68
+1--14
+68--41
+68--28
+19--1
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 177
+info: start round 178
+info:     start player 0
+1--24
+68--13
+68--43
+12--1
+68--62
+68--8
+68--45
+68--5
+68--54
+68--48
+55--1
+1--57
+61--68
+51--1
+33--68
+info:     end player 0
+info:     start player 1
+37--1
+61--1
+56--68
+29--1
+19--68
+68--11
+45--1
+1--3
+24--1
+7--68
+1--27
+68--33
+46--68
+1--29
+30--68
+1--49
+info:     end player 1
+info:     start player 2
+68--21
+68--28
+54--68
+68--51
+27--68
+43--1
+1--67
+40--1
+52--68
+68--41
+1--14
+21--1
+19--1
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 178
+info: start round 179
+info:     start player 0
+68--62
+33--68
+68--45
+68--43
+1--57
+68--8
+68--5
+51--1
+68--54
+12--1
+61--68
+55--1
+68--48
+68--13
+1--24
+info:     end player 0
+info:     start player 1
+29--1
+1--27
+61--1
+30--68
+56--68
+1--3
+19--68
+1--49
+1--29
+68--33
+37--1
+68--11
+7--68
+24--1
+46--68
+45--1
+info:     end player 1
+info:     start player 2
+54--68
+68--41
+68--21
+1--14
+68--28
+1--67
+19--1
+27--68
+43--1
+68--51
+21--1
+52--68
+40--1
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 179
+info: start round 180
+info:     start player 0
+1--24
+61--68
+68--54
+1--57
+68--45
+68--8
+33--68
+68--13
+68--48
+55--1
+51--1
+68--5
+12--1
+68--43
+68--62
+info:     end player 0
+info:     start player 1
+1--3
+37--1
+68--11
+45--1
+61--1
+46--68
+1--27
+30--68
+1--49
+1--29
+19--68
+29--1
+68--33
+24--1
+7--68
+56--68
+info:     end player 1
+info:     start player 2
+52--68
+21--1
+27--68
+43--1
+68--51
+68--41
+40--1
+68--21
+54--68
+68--28
+1--67
+19--1
+1--14
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 180
+info: start round 181
+info:     start player 0
+33--68
+51--1
+68--45
+68--43
+68--48
+68--62
+1--24
+1--57
+68--5
+61--68
+12--1
+68--13
+55--1
+68--54
+68--8
+info:     end player 0
+info:     start player 1
+46--68
+29--1
+1--27
+24--1
+61--1
+68--33
+1--29
+37--1
+1--49
+1--3
+19--68
+30--68
+68--11
+56--68
+7--68
+45--1
+info:     end player 1
+info:     start player 2
+68--51
+1--14
+43--1
+68--21
+40--1
+68--28
+27--68
+54--68
+19--1
+21--1
+68--41
+1--67
+52--68
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 181
+info: start round 182
+info:     start player 0
+68--54
+68--13
+68--48
+68--45
+68--8
+68--62
+1--57
+12--1
+55--1
+61--68
+33--68
+51--1
+68--43
+1--24
+68--5
+info:     end player 0
+info:     start player 1
+7--68
+1--27
+61--1
+30--68
+68--33
+37--1
+1--29
+1--3
+45--1
+1--49
+29--1
+68--11
+46--68
+19--68
+56--68
+24--1
+info:     end player 1
+info:     start player 2
+40--1
+52--68
+1--67
+68--21
+21--1
+68--28
+27--68
+19--1
+43--1
+68--41
+54--68
+1--14
+68--51
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 182
+info: start round 183
+info:     start player 0
+68--45
+51--1
+68--8
+33--68
+68--54
+61--68
+68--43
+68--5
+68--48
+55--1
+1--57
+68--13
+68--62
+1--24
+12--1
+info:     end player 0
+info:     start player 1
+30--68
+7--68
+68--11
+46--68
+1--3
+1--27
+61--1
+1--49
+24--1
+19--68
+1--29
+56--68
+45--1
+29--1
+37--1
+68--33
+info:     end player 1
+info:     start player 2
+68--28
+40--1
+52--68
+68--21
+54--68
+68--41
+19--1
+21--1
+27--68
+1--14
+68--51
+1--67
+43--1
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 183
+info: start round 184
+info:     start player 0
+1--24
+68--62
+33--68
+68--13
+68--45
+68--5
+55--1
+68--43
+1--57
+68--48
+51--1
+61--68
+12--1
+68--54
+68--8
+info:     end player 0
+info:     start player 1
+37--1
+1--3
+30--68
+61--1
+19--68
+1--49
+45--1
+24--1
+68--33
+7--68
+46--68
+29--1
+1--29
+68--11
+56--68
+1--27
+info:     end player 1
+info:     start player 2
+1--67
+52--68
+21--1
+68--21
+27--68
+43--1
+68--28
+68--51
+68--41
+19--1
+54--68
+1--14
+40--1
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 184
+info: start round 185
+info:     start player 0
+33--68
+68--5
+68--43
+68--13
+1--24
+1--57
+12--1
+68--62
+68--54
+68--48
+55--1
+68--8
+68--45
+51--1
+61--68
+info:     end player 0
+info:     start player 1
+1--49
+7--68
+61--1
+29--1
+1--29
+68--33
+1--3
+24--1
+46--68
+45--1
+19--68
+1--27
+30--68
+56--68
+68--11
+37--1
+info:     end player 1
+info:     start player 2
+1--14
+1--67
+43--1
+19--1
+68--51
+21--1
+40--1
+68--28
+68--41
+54--68
+68--21
+52--68
+27--68
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 185
+info: start round 186
+info:     start player 0
+1--57
+51--1
+33--68
+68--43
+68--48
+68--54
+1--24
+55--1
+12--1
+68--45
+68--62
+61--68
+68--5
+68--13
+68--8
+info:     end player 0
+info:     start player 1
+46--68
+1--27
+1--49
+68--33
+56--68
+68--11
+37--1
+7--68
+1--3
+45--1
+61--1
+24--1
+30--68
+19--68
+1--29
+29--1
+info:     end player 1
+info:     start player 2
+1--14
+68--51
+40--1
+68--28
+52--68
+27--68
+21--1
+1--67
+43--1
+19--1
+68--41
+54--68
+68--21
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 186
+info: start round 187
+info:     start player 0
+68--8
+1--24
+1--57
+51--1
+33--68
+68--5
+68--62
+55--1
+68--48
+68--54
+68--45
+12--1
+68--13
+68--43
+61--68
+info:     end player 0
+info:     start player 1
+1--49
+30--68
+19--68
+61--1
+68--33
+1--27
+29--1
+24--1
+7--68
+56--68
+37--1
+45--1
+1--29
+68--11
+1--3
+46--68
+info:     end player 1
+info:     start player 2
+1--14
+27--68
+68--41
+19--1
+43--1
+54--68
+68--21
+68--51
+1--67
+40--1
+52--68
+68--28
+21--1
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 187
+info: start round 188
+info:     start player 0
+68--48
+68--8
+68--62
+51--1
+68--54
+68--43
+68--5
+12--1
+68--13
+1--24
+33--68
+55--1
+1--57
+68--45
+61--68
+info:     end player 0
+info:     start player 1
+46--68
+1--29
+37--1
+68--33
+45--1
+24--1
+68--11
+29--1
+19--68
+7--68
+1--3
+56--68
+1--27
+1--49
+30--68
+61--1
+info:     end player 1
+info:     start player 2
+21--1
+19--1
+68--21
+52--68
+68--28
+43--1
+68--41
+1--14
+1--67
+54--68
+68--51
+40--1
+27--68
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 188
+info: start round 189
+info:     start player 0
+68--43
+61--68
+68--13
+68--8
+68--5
+55--1
+68--54
+51--1
+68--62
+1--24
+33--68
+68--48
+1--57
+68--45
+12--1
+info:     end player 0
+info:     start player 1
+56--68
+1--3
+45--1
+1--27
+46--68
+24--1
+37--1
+1--29
+29--1
+1--49
+61--1
+7--68
+19--68
+68--33
+30--68
+68--11
+info:     end player 1
+info:     start player 2
+19--1
+54--68
+1--14
+43--1
+21--1
+68--51
+68--28
+27--68
+52--68
+40--1
+68--21
+68--41
+1--67
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 189
+info: start round 190
+info:     start player 0
+68--13
+68--43
+68--48
+68--62
+68--54
+12--1
+68--45
+68--5
+68--8
+1--57
+33--68
+51--1
+61--68
+1--24
+55--1
+info:     end player 0
+info:     start player 1
+46--68
+1--3
+37--1
+19--68
+68--33
+68--11
+30--68
+7--68
+56--68
+61--1
+24--1
+29--1
+45--1
+1--29
+1--27
+1--49
+info:     end player 1
+info:     start player 2
+1--14
+52--68
+68--41
+21--1
+19--1
+27--68
+1--67
+40--1
+68--51
+68--21
+68--28
+54--68
+43--1
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 190
+info: start round 191
+info:     start player 0
+68--5
+1--57
+68--13
+33--68
+68--45
+68--62
+61--68
+55--1
+51--1
+68--8
+68--48
+1--24
+68--43
+12--1
+68--54
+info:     end player 0
+info:     start player 1
+37--1
+1--27
+7--68
+19--68
+1--3
+1--29
+46--68
+68--33
+61--1
+56--68
+45--1
+68--11
+30--68
+1--49
+24--1
+29--1
+info:     end player 1
+info:     start player 2
+68--28
+43--1
+1--14
+54--68
+1--67
+40--1
+68--51
+27--68
+68--41
+19--1
+21--1
+52--68
+68--21
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 191
+info: start round 192
+info:     start player 0
+68--45
+55--1
+68--8
+68--13
+33--68
+1--24
+68--5
+12--1
+68--54
+68--62
+68--48
+68--43
+51--1
+61--68
+1--57
+info:     end player 0
+info:     start player 1
+46--68
+45--1
+1--29
+68--11
+24--1
+1--27
+7--68
+30--68
+61--1
+29--1
+1--49
+68--33
+1--3
+19--68
+37--1
+56--68
+info:     end player 1
+info:     start player 2
+68--21
+1--14
+19--1
+52--68
+54--68
+43--1
+1--67
+27--68
+68--28
+68--41
+21--1
+40--1
+68--51
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 192
+info: start round 193
+info:     start player 0
+68--43
+68--8
+68--45
+68--13
+68--5
+61--68
+68--62
+33--68
+1--57
+55--1
+51--1
+68--54
+1--24
+68--48
+12--1
+info:     end player 0
+info:     start player 1
+1--27
+19--68
+24--1
+37--1
+46--68
+1--29
+56--68
+45--1
+1--49
+29--1
+61--1
+7--68
+1--3
+68--11
+30--68
+68--33
+info:     end player 1
+info:     start player 2
+40--1
+21--1
+68--41
+27--68
+1--67
+43--1
+54--68
+52--68
+68--28
+68--21
+19--1
+68--51
+1--14
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 193
+info: start round 194
+info:     start player 0
+61--68
+68--48
+51--1
+55--1
+33--68
+68--45
+68--62
+68--5
+68--43
+12--1
+1--24
+1--57
+68--13
+68--54
+68--8
+info:     end player 0
+info:     start player 1
+24--1
+29--1
+68--11
+68--33
+45--1
+19--68
+1--49
+30--68
+61--1
+1--29
+1--3
+1--27
+37--1
+56--68
+46--68
+7--68
+info:     end player 1
+info:     start player 2
+27--68
+68--51
+40--1
+1--14
+43--1
+1--67
+68--28
+21--1
+52--68
+68--41
+19--1
+54--68
+68--21
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 194
+info: start round 195
+info:     start player 0
+61--68
+1--24
+68--45
+51--1
+68--54
+68--13
+68--48
+68--8
+33--68
+68--43
+12--1
+1--57
+68--62
+55--1
+68--5
+info:     end player 0
+info:     start player 1
+1--29
+68--11
+19--68
+1--3
+1--27
+46--68
+24--1
+7--68
+1--49
+61--1
+68--33
+45--1
+37--1
+29--1
+30--68
+56--68
+info:     end player 1
+info:     start player 2
+1--14
+40--1
+54--68
+19--1
+21--1
+68--41
+43--1
+52--68
+1--67
+68--21
+27--68
+68--28
+68--51
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 195
+info: start round 196
+info:     start player 0
+68--62
+1--24
+55--1
+68--13
+68--5
+68--45
+68--54
+68--43
+1--57
+12--1
+61--68
+68--8
+68--48
+51--1
+33--68
+info:     end player 0
+info:     start player 1
+61--1
+45--1
+19--68
+1--27
+37--1
+1--29
+1--49
+56--68
+68--33
+30--68
+46--68
+24--1
+68--11
+1--3
+29--1
+7--68
+info:     end player 1
+info:     start player 2
+21--1
+40--1
+52--68
+68--51
+1--67
+19--1
+68--21
+43--1
+1--14
+27--68
+54--68
+68--28
+68--41
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 196
+info: start round 197
+info:     start player 0
+68--5
+33--68
+68--45
+61--68
+68--54
+12--1
+1--57
+51--1
+68--8
+68--13
+68--43
+68--62
+55--1
+1--24
+68--48
+info:     end player 0
+info:     start player 1
+1--3
+1--27
+7--68
+45--1
+24--1
+68--33
+1--49
+37--1
+29--1
+1--29
+56--68
+68--11
+61--1
+46--68
+30--68
+19--68
+info:     end player 1
+info:     start player 2
+52--68
+68--21
+68--28
+27--68
+40--1
+54--68
+68--41
+68--51
+1--14
+43--1
+1--67
+19--1
+21--1
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 197
+info: start round 198
+info:     start player 0
+51--1
+68--54
+1--57
+68--43
+68--5
+68--48
+55--1
+68--45
+68--8
+12--1
+33--68
+68--13
+68--62
+61--68
+1--24
+info:     end player 0
+info:     start player 1
+1--27
+30--68
+19--68
+68--11
+1--3
+7--68
+61--1
+45--1
+1--49
+29--1
+46--68
+1--29
+37--1
+56--68
+24--1
+68--33
+info:     end player 1
+info:     start player 2
+52--68
+21--1
+1--14
+1--67
+40--1
+68--51
+43--1
+54--68
+27--68
+68--21
+68--28
+68--41
+19--1
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 198
+info: start round 199
+info:     start player 0
+68--48
+68--45
+33--68
+68--13
+68--5
+68--8
+61--68
+1--24
+68--54
+68--43
+68--62
+51--1
+1--57
+55--1
+12--1
+info:     end player 0
+info:     start player 1
+19--68
+46--68
+1--49
+30--68
+56--68
+1--27
+1--29
+24--1
+45--1
+1--3
+37--1
+7--68
+29--1
+68--33
+61--1
+68--11
+info:     end player 1
+info:     start player 2
+40--1
+68--28
+52--68
+68--41
+19--1
+54--68
+27--68
+1--14
+1--67
+21--1
+68--51
+68--21
+43--1
+info:     end player 2
+info:     start player 3
+info:     end player 3
+info: end round 199
+info: player MrPanda got score 0
+info: player MrPanda got score 0
+info: player MrPanda got score 0
+info: player Demo got score 2013
+info: player(s) Demo got top score
+info: game played

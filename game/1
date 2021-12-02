@@ -1,10 +1,10 @@
 info: seed 30
 info: loading game
 info: loaded game
+info: loading player MrPanda
 info: loading player Demo
 info: loading player Demo
-info: loading player MrPanda
-info: loading player MrPanda
+info: loading player Demo
 info: players loaded
 info: start round 0
 info:     start player 0
@@ -2006,9 +2006,9 @@ info:     end player 2
 info:     start player 3
 info:     end player 3
 info: end round 199
-info: player Demo got score 3666
-info: player Demo got score 8522
 info: player MrPanda got score 0
-info: player MrPanda got score 0
+info: player Demo got score 10072
+info: player Demo got score 4503
+info: player Demo got score 4050
 info: player(s) Demo got top score
 info: game played

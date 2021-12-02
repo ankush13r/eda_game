@@ -54,15 +54,15 @@ void Player::reset (ifstream& is) {
   pl_units_= vector< vector<int> >(nb_players());
 
   for (int id = 0; id < nb_players() * nb_units(); ++id) {
-    int pl, i, j, h;
-    bool read(is >> pl >> i >> j >> h);
+    int pl, i, j, h, d, t, imm, m;
+    bool read(is >> pl >> i >> j >> h >> d >> t >> imm >> m);
     _my_assert(read, "Could not read info for unit " + int_to_string(id) + ".");
     _my_assert(pos_ok(i, j), "Position is not ok.");
     _my_assert(cell(i, j).type != WALL, "Cell should be wall.");
     _my_assert(cell(i, j).unit_id == -1, "Cell should not have any unit.");
     _my_assert(h >= 0, "Health should be non-negative");
     grid_[i][j].unit_id = id;
-    unit_[id] = Unit(id, pl, Pos(i, j), h);
+    unit_[id] = Unit(id, pl, Pos(i, j), h, d, t, imm, m);
     pl_units_[pl].push_back(id);
   }
 

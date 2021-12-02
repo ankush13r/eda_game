@@ -294,6 +294,10 @@ function parseData (raw_data_str) {
             data.rounds[round].units[i].i      = int(t[p++]);
             data.rounds[round].units[i].j      = int(t[p++]);
             data.rounds[round].units[i].health = int(t[p++]);
+	    data.rounds[round].units[i].damage = int(t[p++]);
+	    data.rounds[round].units[i].turns = int(t[p++]);
+	    data.rounds[round].units[i].imm = int(t[p++]);
+	    data.rounds[round].units[i].mask = int(t[p++]);
         }
        
 

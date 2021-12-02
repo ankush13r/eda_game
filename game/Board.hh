@@ -47,7 +47,11 @@ class Board : public Info, public Random_generator {
     os << u.player << ' '
        << u.pos.i  << ' '
        << u.pos.j  << ' '
-       << u.health << ' ';
+       << u.health << ' '
+       << u.damage << ' '
+       << u.turns << ' '
+       << u.immune << ' '
+       << u.mask << ' ';
   }
 
   bool valid_to_spawn(Pos pos);

@@ -118,7 +118,7 @@ bool Info::ok() {
 
   // If grid_[i][j].unit_id != -1 then grid_[i][j].type != WATER
   // Each unit occurs on the board exactly once.
-  vector<bool> mkd(nb_units(), false);
+  vector<bool> mkd(nb_players() * nb_units(), false);
   int cnt = 0;
   for (int i = 0; i < rows(); ++i)
     for (int j = 0; j < cols(); ++j) {

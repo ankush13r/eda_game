@@ -106,6 +106,7 @@ private:
     default:     _unreachable();
     }
   }
+
 };
 
 inline void Action::execute(Command m) {
