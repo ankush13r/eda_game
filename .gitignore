@@ -2,3 +2,5 @@
 **/*.exe
 **/ignoreDir
 **/game_old_version
+**/Makefile.deps
+**/Game
