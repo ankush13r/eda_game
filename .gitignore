@@ -1,3 +1,4 @@
 **/*.o
 **/*.exe
 **/ignoreDir
+**/game_old_version
