@@ -27,57 +27,56 @@ struct PLAYER_NAME : public Player {
     int city;
     Pos pos;
     queue<Dir> route;
-
     Unit_assignation (int city, Pos pos, queue<Dir> route) : city(city), pos(pos), route(route) { };
   };
-
   vector<Unit_assignation> city_assigned; //City assigned to the units.
- 
+
+
   int pos_diff(const Pos& pos1, const Pos& pos2){
      return abs(pos1.i - pos2.i) + abs(pos1.j - pos2.j);
   }
 
   // Return position of a random cell of city near by u_pos.
-  int nearest_city(const Unit& u, const vector<int> &n_units_assigned){
+  int nearest_city(const Unit& u){
     //Run all cities
-    int i;
-    int n = -1;
-    bool found = false;
-    while(not found){
-      i = 0;
-      ++n;
-      while(i < nb_cities() and n_units_assigned[i] > n) ++i;
-      found = i < nb_cities();
-    }
 
+    int i = (0 == city_assigned[u.id].city); // If city assigned is 0, so it will start counting from 1.
     int diff = pos_diff(city(i)[0],u.pos);
     int id = i;
 
-    ++i;
-    for(; i < nb_cities(); ++i){
+    while(++i < nb_cities()){
     //random(0,city_cells.size()-1) Randomly picking a cell of the city.
       int tmp_diff = pos_diff(city(i)[0], u.pos);
-      if(tmp_diff < diff and n_units_assigned[i] <= n){
+      if(tmp_diff < diff and city_assigned[u.id].city != i){
         diff = tmp_diff;
         id = i;
       }
     }
-
-
-    //cerr << "Debug: pos error: " << city(id)[0] << "..." << u_pos <<endl;
-
     return id;
+  }
+
+  Dir check_mask(const Pos& pos){
+    Dir tmp_dir = NONE;
+    for(unsigned i = 0; i < 4; ++i){
+      Pos tmp_pos = pos + Dir(i);
+      if(cell(tmp_pos).mask){
+        tmp_dir = Dir(i);
+        break;
+      }
+    }
+    return tmp_dir;
   }
 
   Dir get_move_for_target(const Pos& pos, const Pos& target){
     if(pos.i < target.i and pos_ok(pos.i+1,pos.j) and cell(pos.i+1,pos.j).type != WALL)
       return BOTTOM;
-    if(pos.i > target.i and pos_ok(pos.i-1,pos.j) and cell(pos.i-1,pos.j).type != WALL)
+    else if(pos.i > target.i and pos_ok(pos.i-1,pos.j) and cell(pos.i-1,pos.j).type != WALL)
       return TOP;
-    if(pos.j < target.j and pos_ok(pos.i,pos.j+1) and cell(pos.i,pos.j+1).type != WALL)
+    else if(pos.j < target.j and pos_ok(pos.i,pos.j+1) and cell(pos.i,pos.j+1).type != WALL)
       return RIGHT;
-    if(pos.j > target.j and pos_ok(pos.i,pos.j-1) and cell(pos.i,pos.j-1).type != WALL)
+    else if(pos.j > target.j and pos_ok(pos.i,pos.j-1) and cell(pos.i,pos.j-1).type != WALL)
       return LEFT;
+
     return NONE;
   }
 
@@ -95,41 +94,47 @@ struct PLAYER_NAME : public Player {
     return city_cells[0];
   }
 
-  Dir movement(const Unit& u, vector<int> &n_units_assigned){
+  Dir movement(const Unit& u){
     Pos tmp_pos = u.pos;
+    Dir tmp_dir = NONE;
     if(tmp_pos.i == 1 or tmp_pos.i == rows()-2 or tmp_pos.j == 1 or tmp_pos.j == cols()-2){
-      int city_id = nearest_city(u, n_units_assigned);
-      n_units_assigned[city_id]++;
+      int city_id = nearest_city(u);
       city_assigned[u.id].city = city_id;
       city_assigned[u.id].pos = cell_city_path(city_id);
-      if(tmp_pos.i==1) return BOTTOM;
-      if(tmp_pos.i==rows()-2) return TOP;
-      if(tmp_pos.j==1) return RIGHT;
-      if(tmp_pos.j==cols()-2)return LEFT;
-
-      //find_nearest_path(u.id, city_assigned[u.id].second, tmp_pos);
+      if(tmp_pos.i==1) tmp_dir =  BOTTOM;
+      else if(tmp_pos.i==rows()-2) tmp_dir = TOP;
+      else if(tmp_pos.j==1) tmp_dir = RIGHT;
+      else if(tmp_pos.j==cols()-2) tmp_dir = LEFT;
     }
     else if(cell(tmp_pos).type == CITY){
-      Dir tmp_dir = NONE;
+      if(city_owner(cell(tmp_pos).city_id) == me()){
+        int city_id = nearest_city(u);
+        city_assigned[u.id].city = city_id;
+        city_assigned[u.id].pos = cell_city_path(city_id);
+      }
+
       for(unsigned i = 0; i < 4; ++i){
         CellType tmp_type = cell(tmp_pos+Dir(i)).type;
         if(tmp_type == GRASS) tmp_dir = Dir((i+1)%4);
-        if(tmp_type == PATH) return Dir(i);
+        if(tmp_type == PATH){
+          tmp_dir = Dir(i);
+          break;
+        }
       }
       if(tmp_dir == BOTTOM and (cell(tmp_pos + BOTTOM).type != CITY)) tmp_dir = RIGHT;
-      return tmp_dir;
     }
-    return get_move_for_target(u.pos, city_assigned[u.id].pos); 
+    else if(cell(tmp_pos).type == PATH){
+      
+    }
+    else if(cell(tmp_pos).type == GRASS){
+    
+    }
+    if(tmp_dir == NONE) tmp_dir = get_move_for_target(u.pos, city_assigned[u.id].pos); 
+    return tmp_dir;
   }
 
   void controler(){
     VI U = my_units(me()); // Get the id's of my units.
-    vector<int> n_units_assigned_to_city(nb_cities(),0); //Number of units assigned to the city.
-    for (unsigned i = 0; i <  U.size(); ++i){
-      int city_id = city_assigned[U[i]].city;
-      if(city_id != -1) n_units_assigned_to_city[city_id]++;
-    }
-
     for (unsigned i = 0; i <  U.size(); ++i) {
       int id = U[i];
       if(not city_assigned[id].route.empty()){
@@ -137,12 +142,14 @@ struct PLAYER_NAME : public Player {
         city_assigned[id].route.pop();
       }
       else{
-        Dir tmp_move = movement(unit(id), n_units_assigned_to_city);
+        Dir tmp_move = check_mask(unit(id).pos);
+        if(tmp_move == NONE) tmp_move = movement(unit(id));
         if(tmp_move != NONE){
           move(id, tmp_move);
         }
       }
     }
+    cerr << endl;
   }
 
   /**
