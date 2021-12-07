@@ -23,133 +23,136 @@ struct PLAYER_NAME : public Player {
    */
 
   typedef vector<int> VI;
-  struct Unit_assignation{
-    int city;
-    Pos pos;
-    queue<Dir> route;
-    Unit_assignation (int city, Pos pos, queue<Dir> route) : city(city), pos(pos), route(route) { };
-  };
-  vector<Unit_assignation> city_assigned; //City assigned to the units.
+  vector<Pos> pos_assigned;
 
-
-  int pos_diff(const Pos& pos1, const Pos& pos2){
-     return abs(pos1.i - pos2.i) + abs(pos1.j - pos2.j);
-  }
-
-  // Return position of a random cell of city near by u_pos.
-  int nearest_city(const Unit& u){
-    //Run all cities
-
-    int i = (0 == city_assigned[u.id].city); // If city assigned is 0, so it will start counting from 1.
-    int diff = pos_diff(city(i)[0],u.pos);
-    int id = i;
-
-    while(++i < nb_cities()){
-    //random(0,city_cells.size()-1) Randomly picking a cell of the city.
-      int tmp_diff = pos_diff(city(i)[0], u.pos);
-      if(tmp_diff < diff and city_assigned[u.id].city != i){
-        diff = tmp_diff;
-        id = i;
-      }
+  Dir find_mask(const Pos& start){
+    for(int i = 0; i < 4; ++i){
+      if(cell(start + Dir(i)).mask) return Dir(i);
     }
-    return id;
-  }
-
-  Dir check_mask(const Pos& pos){
-    Dir tmp_dir = NONE;
-    for(unsigned i = 0; i < 4; ++i){
-      Pos tmp_pos = pos + Dir(i);
-      if(cell(tmp_pos).mask){
-        tmp_dir = Dir(i);
-        break;
-      }
-    }
-    return tmp_dir;
-  }
-
-  Dir get_move_for_target(const Pos& pos, const Pos& target){
-    if(pos.i < target.i and pos_ok(pos.i+1,pos.j) and cell(pos.i+1,pos.j).type != WALL)
-      return BOTTOM;
-    else if(pos.i > target.i and pos_ok(pos.i-1,pos.j) and cell(pos.i-1,pos.j).type != WALL)
-      return TOP;
-    else if(pos.j < target.j and pos_ok(pos.i,pos.j+1) and cell(pos.i,pos.j+1).type != WALL)
-      return RIGHT;
-    else if(pos.j > target.j and pos_ok(pos.i,pos.j-1) and cell(pos.i,pos.j-1).type != WALL)
-      return LEFT;
-
     return NONE;
   }
 
-  queue<Dir> path_to_cross_wall(const Pos& pos, const Pos& target){
-    queue<Dir> d;
-    return d;
+  Dir find_enemy(const Pos& start){
+    for(int i = 0; i < 4; ++i){
+      int u_id = cell(start + Dir(i)).unit_id;
+      if(u_id != -1 and unit(u_id).player != me()) return Dir(i);
+    }
+    return NONE;
   }
 
-  Pos cell_city_path(int city_id){
-    City city_cells = city(city_id);
-    for(unsigned i = 0; i < city_cells.size(); ++i)
-      for(unsigned j = 0; j < 4; ++j)
-        if(cell(city_cells[i]+Dir(j)).type == PATH) return city_cells[i];
-    
-    return city_cells[0];
+  bool ok_city(int id){
+    City cells = city(id);
+    int count = 0;
+    for(unsigned i = 0; i < cells.size(); ++i){
+      int u_id = cell(cells[i]).unit_id;
+      if(u_id != -1 and unit(u_id).player == me()) ++count; 
+    }
+ 
+    return count <= 3;
+  }
+
+  bool ok_path(int id){
+    vector<Pos> cells = path(id).second;
+    int count = 0;
+    for(unsigned i = 0; i < cells.size(); ++i){
+      int u_id = cell(cells[i]).unit_id;
+      if(u_id != -1 and unit(u_id).player == me()) ++count; 
+    }
+    return count <= 1 and cells.size() > 5;
+  }
+
+  bool bfs_comp(const Pos& start, const Pos& end){
+      if(start == end) return false;
+      Cell tmp_cell = cell(end);
+      return (tmp_cell.type == PATH and ok_path(tmp_cell.path_id) and path_owner(tmp_cell.path_id) != me()) or
+             (tmp_cell.type == CITY and ok_city(tmp_cell.city_id) and city_owner(tmp_cell.city_id) != me());
+
+  }
+
+  pair<Pos, queue<Dir>> bfs_find_pos(const Pos& start){
+  
+    vector <vector<bool> > visited(rows(), vector<bool>(cols(), false));
+
+    queue<Dir> tmp_q = queue<Dir>();
+    queue<pair<Pos, queue<Dir> >> q_pos;
+    q_pos.push(make_pair(start,tmp_q));
+    Pos tmp_pos;
+
+    while(not q_pos.empty()){
+      tmp_pos = q_pos.front().first;
+      tmp_q = q_pos.front().second;
+      visited[tmp_pos.i][tmp_pos.j] = true;
+      q_pos.pop();
+
+      if(bfs_comp(start,tmp_pos)) break;
+      for(int i = 0; i < 4; ++i){
+        Cell tmp_cell = cell(tmp_pos+Dir(i));
+        if(tmp_cell.type != WALL and pos_ok(tmp_pos+Dir(i)) and not visited[(tmp_pos+Dir(i)).i][(tmp_pos+Dir(i)).j]){
+          queue<Dir> q2 = tmp_q;
+          q2.push(Dir(i));
+          q_pos.push(make_pair(tmp_pos+Dir(i), q2));
+          visited[(tmp_pos+Dir(i)).i][(tmp_pos+Dir(i)).j] = true;
+        }
+      }
+    }
+    return make_pair(tmp_pos, tmp_q);
   }
 
   Dir movement(const Unit& u){
-    Pos tmp_pos = u.pos;
-    Dir tmp_dir = NONE;
-    if(tmp_pos.i == 1 or tmp_pos.i == rows()-2 or tmp_pos.j == 1 or tmp_pos.j == cols()-2){
-      int city_id = nearest_city(u);
-      city_assigned[u.id].city = city_id;
-      city_assigned[u.id].pos = cell_city_path(city_id);
-      if(tmp_pos.i==1) tmp_dir =  BOTTOM;
-      else if(tmp_pos.i==rows()-2) tmp_dir = TOP;
-      else if(tmp_pos.j==1) tmp_dir = RIGHT;
-      else if(tmp_pos.j==cols()-2) tmp_dir = LEFT;
-    }
-    else if(cell(tmp_pos).type == CITY){
-      if(city_owner(cell(tmp_pos).city_id) == me()){
-        int city_id = nearest_city(u);
-        city_assigned[u.id].city = city_id;
-        city_assigned[u.id].pos = cell_city_path(city_id);
-      }
+    Dir tmp_move = find_enemy(u.pos);
+    if(tmp_move == NONE and not u.mask and not u.immune) tmp_move = find_mask(u.pos);
+    if(tmp_move != NONE) return tmp_move;
 
-      for(unsigned i = 0; i < 4; ++i){
-        CellType tmp_type = cell(tmp_pos+Dir(i)).type;
-        if(tmp_type == GRASS) tmp_dir = Dir((i+1)%4);
-        if(tmp_type == PATH){
-          tmp_dir = Dir(i);
-          break;
-        }
-      }
-      if(tmp_dir == BOTTOM and (cell(tmp_pos + BOTTOM).type != CITY)) tmp_dir = RIGHT;
-    }
-    else if(cell(tmp_pos).type == PATH){
-      
-    }
-    else if(cell(tmp_pos).type == GRASS){
+    pair<Pos, queue<Dir>> tmp_pair = bfs_find_pos(u.pos);
+    Pos target = tmp_pair.first;
+    vector<Dir> moves(2,NONE);
+    int n = -1;
+    if(target.i < u.pos.i and pos_ok(u.pos+TOP) and cell(u.pos+TOP).type != WALL) moves[++n] = TOP;
+    if(target.i > u.pos.i and pos_ok(u.pos+BOTTOM) and cell(u.pos+BOTTOM).type != WALL) moves[++n] = BOTTOM;
+    if(target.j < u.pos.j and pos_ok(u.pos+LEFT) and cell(u.pos+LEFT).type != WALL) moves[++n] = LEFT;
+    if(target.j > u.pos.j and pos_ok(u.pos+RIGHT) and cell(u.pos+RIGHT).type != WALL) moves[++n] = RIGHT;
     
+    Dir better_move = tmp_pair.second.front();
+    if(moves[0] != NONE and moves[1] != NONE){
+      Cell cell1 = cell(u.pos + moves[0]);
+      Cell cell2 = cell(u.pos + moves[1]);
+      if(cell1.type == CITY or cell1.type == PATH) better_move = moves[0];
+      else if(cell2.type == CITY or cell2.type == PATH)  better_move = moves[1];
     }
-    if(tmp_dir == NONE) tmp_dir = get_move_for_target(u.pos, city_assigned[u.id].pos); 
-    return tmp_dir;
+    else if(moves[0] != NONE) better_move = moves[0];
+    else if(moves[1] != NONE) better_move = moves[1];
+
+    if(tmp_pair.second.front() != better_move){
+    
+      Cell cell1 = cell(u.pos + tmp_pair.second.front());
+      Cell cell2 = cell(u.pos + better_move);
+      if(cell1.type == CITY or cell1.type == PATH) return tmp_pair.second.front();
+      else if(cell2.type == CITY or cell2.type == PATH)  return better_move;
+    }
+    return tmp_pair.second.front();
   }
 
-  void controler(){
+  void move_units(){
     VI U = my_units(me()); // Get the id's of my units.
     for (unsigned i = 0; i <  U.size(); ++i) {
       int id = U[i];
-      if(not city_assigned[id].route.empty()){
-        move(id, city_assigned[id].route.front());
-        city_assigned[id].route.pop();
-      }
-      else{
-        Dir tmp_move = check_mask(unit(id).pos);
-        if(tmp_move == NONE) tmp_move = movement(unit(id));
-        if(tmp_move != NONE){
-          move(id, tmp_move);
-        }
-      }
+       Dir tmp_move = NONE;
+       Unit u = unit(id);
+       tmp_move = movement(u);
+       int tmp_uid = cell(u.pos + tmp_move).unit_id; 
+       if(tmp_uid != -1 and unit(tmp_uid).player == me()){
+         for(int i = 0; i < 4; ++i){
+           Cell tmp_cell = cell(u.pos + Dir(i)); 
+           if(tmp_cell.type != WALL and pos_ok(u.pos + Dir(i)) and 
+              (tmp_cell.unit_id == -1 or unit(tmp_cell.unit_id).player != me()))
+            {
+              tmp_move = Dir(i);
+              break;
+           }
+         }
+       }
+       move(id, tmp_move);
     }
-    cerr << endl;
   }
 
   /**
@@ -157,10 +160,12 @@ struct PLAYER_NAME : public Player {
    */
   virtual void play () {
     if(round() == 0){
-      city_assigned = vector<Unit_assignation>(60,Unit_assignation(-1,Pos(), queue<Dir>()));
+      pos_assigned = vector<Pos>(200, Pos());
     }
-    controler();
+    move_units();
   }
+
+//---------------------//
 };
 
 
@@ -169,36 +174,3 @@ struct PLAYER_NAME : public Player {
  */
 RegisterPlayer(PLAYER_NAME);
 
-
-//------------------------------------------------------------//
-
- /* void n_units_assigned(){
-    VI U = my_units(me());
-    for (unsigned i = 0; i <  U.size(); ++i){
-      n_units_assigned[city_assigned[U[i]].first]++; 
-    }
-  }
-*/
-
-
-  /*void find_nearest_path(int id, const Pos& target_pos, Pos inicial_pos){
-    //Todo, si pongo random cell va mejor.
-    bool found = false;
-    //Loop to find the path from unit to city.
-    while(not found){
-      
-      Dir tmp_move = get_move_for_target(inicial_pos, target_pos);
-
-      if(tmp_move != NONE){
-        inicial_pos +=  tmp_move;
-        //v_units_paths[id].push(tmp_move);
-      }
-      else{found = true;}
-      //else if(cell(pos).type == WALL){
-        //path_to_cross_wall(u.pos, target_pos){
-
-        //}
-      }
-
-    }
-    */
