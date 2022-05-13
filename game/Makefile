@@ -1,7 +1,7 @@
-DUMMY_OBJ = AIDummy.o
+DUMMY_OBJ =
 
 # Add here any extra .o player files you want to link to the executable
-EXTRA_OBJ =
+EXTRA_OBJ = AIAlvirus.o AIHarderPIC.o AIvalgarra23.o AIvalgarra23v2.o AIvalgarra23v6.o AIJoanMalo.o AIEasyPIC.o AImishakov_v05.o  AIMartiii11.o AIANKUSH.o
 
 # Configuration
 OPTIMIZE = 2 # Optimization level    (0 to 3)

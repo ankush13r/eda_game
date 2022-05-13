@@ -160,7 +160,6 @@ struct Unit {
 
 //////// STUDENTS DO NOT NEED TO READ BELOW THIS LINE ////////
 
-
 inline Pos::Pos () : i(0), j(0) { }
 inline Pos::Pos (int i, int j) : i(i), j(j) { }
 
